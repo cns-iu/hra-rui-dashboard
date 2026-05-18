@@ -28,7 +28,10 @@ async function generateReport(data_source, basePath, endpoint, token) {
   const unregisteredBlocksSet = new Set(unregisteredFilteredBlocks.map((b) => b.uuid));
   const unregisteredFilteredDatasets = unregisteredDatasets;
   // .filter((d) => d.__ancestors.some((a) => unregisteredBlocksSet.has(a)));
-  const foobarDatasets = unregisteredDatasets.filter((d) => !d.__ancestors.some((a) => unregisteredBlocksSet.has(a)));
+  const noBlockDatasets = unregisteredDatasets.filter(
+    (d) =>
+      !d.__ancestors.some((a) => registeredBlocksSet.has(a) || unregisteredBlocksSet.has(a) || exemptBlocksSet.has(a)),
+  );
 
   console.log(basePath, {
     blocks: {
@@ -44,6 +47,7 @@ async function generateReport(data_source, basePath, endpoint, token) {
     unfiltered: {
       registeredDatasets: registeredDatasets.length,
       unregisteredDatasets: unregisteredDatasets.length,
+      noBlockDatasets: noBlockDatasets.length,
     },
   });
   writeFileSync(
@@ -60,6 +64,7 @@ async function generateReport(data_source, basePath, endpoint, token) {
 
         registeredDatasets,
         unregisteredDatasets,
+        noBlockDatasets,
       },
       null,
       2,
@@ -76,11 +81,17 @@ async function generateReport(data_source, basePath, endpoint, token) {
   );
   writeFileSync(basePath + '.blocks.csv', blocksCsv);
 
+  const blocksLookup = [...registeredBlocks, ...exemptBlocks, ...unregisteredFilteredBlocks].reduce((acc, b) => {
+    acc[b.uuid] = b;
+    return acc;
+  }, {});
+  const getBlock = (d) => blocksLookup[d.__ancestors.find((uuid) => blocksLookup[uuid])] ?? {};
+
   const datasetsCsv = Papa.unparse(
-    [...registeredDatasets, ...exemptDatasets, ...unregisteredFilteredDatasets].map((b) => ({
-      status: b.rui_exemption ? 'Exempt' : !!b.rui_location ? 'Registered' : 'Unregistered',
-      identifier: b.hubmap_id || b.sennet_id,
-      link: b.link,
+    [...registeredDatasets, ...exemptDatasets, ...unregisteredFilteredDatasets].map((d) => ({
+      status: getBlock(d).rui_exemption ? 'Exempt' : !!getBlock(d).rui_location ? 'Registered' : 'Unregistered',
+      identifier: d.hubmap_id || d.sennet_id,
+      link: d.link,
     })),
     { header: true },
   );

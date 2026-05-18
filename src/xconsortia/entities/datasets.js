@@ -8,6 +8,8 @@ const FIELDS = [
 
   'source_samples.uuid',
   'source_samples.sample_category',
+  'ancestors.uuid',
+  'ancestors.entity_type',
 ];
 
 const QUERY = {
@@ -124,7 +126,7 @@ function formatDataset(dataset, token = undefined) {
     technology,
     thumbnail,
 
-    __ancestors: dataset.source_samples?.map((s) => s.uuid) ?? [],
+    __ancestors: (dataset.ancestors || dataset.source_samples)?.map((s) => s.uuid) ?? [],
     hubmap_id: dataset.hubmap_id,
     sennet_id: dataset.sennet_id,
   };

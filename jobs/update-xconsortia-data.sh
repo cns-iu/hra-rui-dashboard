@@ -15,3 +15,9 @@ if [ -z "$HUBMAP_TOKEN" ]; then
 fi
 
 node src/xconsortia/export-cli.js
+
+for portal in hubmap sennet; do
+	for type in datasets blocks; do
+		node src/update-summary.js docs/raw-data/${portal}.${type}.csv docs/summaries/${portal}.${type}.csv
+	done
+done
