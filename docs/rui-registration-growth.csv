@@ -14,6 +14,9 @@ HuBMAP,Dataset,2026-05-08,Registered,11870
 HuBMAP,Dataset,2026-05-19,Unregistered,4438
 HuBMAP,Dataset,2026-05-19,Exempt,375
 HuBMAP,Dataset,2026-05-19,Registered,5964
+HuBMAP,Block,2026-05-18,Unregistered,2592
+HuBMAP,Block,2026-05-18,Exempt,0
+HuBMAP,Block,2026-05-18,Registered,2589
 HuBMAP,Block,2026-05-19,Unregistered,2606
 HuBMAP,Block,2026-05-19,Exempt,0
 HuBMAP,Block,2026-05-19,Registered,2589
@@ -47,6 +50,9 @@ SenNet,Dataset,2026-05-01,Registered,2380
 SenNet,Dataset,2026-05-19,Unregistered,130
 SenNet,Dataset,2026-05-19,Exempt,2436
 SenNet,Dataset,2026-05-19,Registered,1721
+SenNet,Block,2026-05-18,Unregistered,1090
+SenNet,Block,2026-05-18,Exempt,3715
+SenNet,Block,2026-05-18,Registered,2197
 SenNet,Block,2026-05-19,Unregistered,1090
 SenNet,Block,2026-05-19,Exempt,3715
 SenNet,Block,2026-05-19,Registered,2197
