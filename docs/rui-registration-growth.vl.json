@@ -5,7 +5,11 @@
   },
   "width": "container",
   "height": "container",
-  "padding": { "right": 35, "left": 5, "bottom": 50 },
+  "padding": {
+    "right": 35,
+    "left": 5,
+    "bottom": 50
+  },
   "config": {
     "font": "Metropolis",
     "axis": {
@@ -29,13 +33,17 @@
       "labelFontWeight": 500
     }
   },
-  "mark": { "type": "area", "point": false, "tooltip": true, "strokeWidth": 4 },
+  "mark": {
+    "type": "area",
+    "point": false,
+    "tooltip": true,
+    "strokeWidth": 4
+  },
   "transform": [
     {
-      "filter": { "param": "selected_data_source" }
-    },
-    {
-      "filter": { "param": "selected_type" }
+      "filter": {
+        "param": "selected_data_source"
+      }
     }
   ],
   "params": [
@@ -50,22 +58,27 @@
       "bind": "legend"
     },
     {
-      "name": "selected_type",
-      "value": "Dataset",
-      "select": { "type": "point", "fields": ["type"] },
-      "bind": {
-        "input": "select",
-        "options": ["Dataset", "Block"],
-        "name": "Data Type "
-      }
-    },
-    {
       "name": "selected_data_source",
-      "value": "SenNet",
-      "select": { "type": "point", "fields": ["data_source"] },
+      "value": "HuBMAP Datasets",
+      "select": {
+        "type": "point",
+        "fields": [
+          "data_source"
+        ]
+      },
       "bind": {
         "input": "select",
-        "options": ["HuBMAP", "SenNet"],
+        "options": [
+          "HuBMAP Datasets",
+          "HuBMAP Blocks",
+          "SenNet Datasets",
+          "SenNet Blocks",
+          "CTann",
+          "KPMP Healthy",
+          "KPMP Unhealthy",
+          "CIFAR",
+          "OMAP"
+        ],
         "name": "Data Source "
       }
     }
@@ -92,8 +105,16 @@
       "type": "nominal",
       "title": "Status",
       "scale": {
-        "domain": ["Unregistered", "Exempt", "Registered"],
-        "range": ["#EA4335", "#FBC31D", "#34A853"]
+        "domain": [
+          "Unregistered",
+          "Exempt",
+          "Registered"
+        ],
+        "range": [
+          "#EA4335",
+          "#FBC31D",
+          "#34A853"
+        ]
       }
     },
     "opacity": {
