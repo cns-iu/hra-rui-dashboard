@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "rui-registration-growth.csv"
+  },
+  "width": "container",
+  "height": "container",
+  "padding": { "right": 35, "left": 5, "bottom": 50 },
+  "config": {
+    "font": "Metropolis",
+    "axis": {
+      "labelFontSize": 14,
+      "titleFontSize": 14,
+      "titleFontWeight": 500,
+      "labelFontWeight": 500,
+      "titleLineHeight": 21,
+      "labelLineHeight": 21,
+      "titleColor": "#201E3D",
+      "labelColor": "#4B4B5E",
+      "titlePadding": 20
+    },
+    "legend": {
+      "labelFontSize": 14,
+      "titleFontSize": 14,
+      "titleLineHeight": 21,
+      "titleColor": "#201E3D",
+      "labelColor": "#4B4B5E",
+      "titleFontWeight": 500,
+      "labelFontWeight": 500
+    }
+  },
+  "mark": { "type": "area", "point": false, "tooltip": true, "strokeWidth": 4 },
+  "transform": [
+    {
+      "filter": { "param": "selected_data_source" }
+    },
+    {
+      "filter": { "param": "selected_type" }
+    }
+  ],
+  "params": [
+    {
+      "name": "user-selection",
+      "select": {
+        "type": "point",
+        "fields": [
+          "group"
+        ]
+      },
+      "bind": "legend"
+    },
+    {
+      "name": "selected_type",
+      "value": "Dataset",
+      "select": { "type": "point", "fields": ["type"] },
+      "bind": {
+        "input": "select",
+        "options": ["Dataset", "Block"],
+        "name": "Data Type "
+      }
+    },
+    {
+      "name": "selected_data_source",
+      "value": "SenNet",
+      "select": { "type": "point", "fields": ["data_source"] },
+      "bind": {
+        "input": "select",
+        "options": ["HuBMAP", "SenNet"],
+        "name": "Data Source "
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "date",
+      "title": "Date",
+      "axis": {
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "count",
+      "type": "quantitative",
+      "title": "Count",
+      "axis": {
+        "labelAngle": -45,
+        "labelOverlap": false
+      }
+    },
+    "color": {
+      "field": "group",
+      "type": "nominal",
+      "title": "Status",
+      "scale": {
+        "domain": ["Unregistered", "Exempt", "Registered"],
+        "range": ["#EA4335", "#FBC31D", "#34A853"]
+      }
+    },
+    "opacity": {
+      "condition": {
+        "param": "user-selection",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  }
+}

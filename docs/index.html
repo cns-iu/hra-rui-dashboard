@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RUI Registration Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    /* metropolis-latin-400-normal */
+    @font-face {
+      font-family: 'Metropolis';
+      font-style: normal;
+      font-display: swap;
+      font-weight: 400;
+      src: url(https://cdn.jsdelivr.net/fontsource/fonts/metropolis@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/metropolis@latest/latin-400-normal.woff) format('woff');
+    }
+
+    /* metropolis-latin-500-normal */
+    @font-face {
+      font-family: 'Metropolis';
+      font-style: normal;
+      font-display: swap;
+      font-weight: 500;
+      src: url(https://cdn.jsdelivr.net/fontsource/fonts/metropolis@latest/latin-500-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/metropolis@latest/latin-500-normal.woff) format('woff');
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      font-family: Metropolis;
+    }
+    #vis {
+      width: 800px;
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    vegaEmbed('#vis', 'rui-registration-growth.vl.json', { renderer: 'svg' });
+  </script>
+</body>
+</html>

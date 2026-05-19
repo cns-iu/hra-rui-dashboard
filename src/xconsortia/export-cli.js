@@ -85,7 +85,7 @@ async function generateReport(data_source, basePath, endpoint, token) {
     acc[b.uuid] = b;
     return acc;
   }, {});
-  const getBlock = (d) => blocksLookup[d.__ancestors.find((uuid) => blocksLookup[uuid])] ?? {};
+  const getBlock = (d) => blocksLookup[d.__ancestors.find((uuid) => blocksLookup[uuid])] ?? { rui_exemption: true };
 
   const datasetsCsv = Papa.unparse(
     [...registeredDatasets, ...exemptDatasets, ...unregisteredFilteredDatasets].map((d) => ({
