@@ -17,6 +17,9 @@ HuBMAP Datasets,2026-05-19,Registered,5964
 HuBMAP Datasets,2026-06-05,Unregistered,4899
 HuBMAP Datasets,2026-06-05,Exempt,375
 HuBMAP Datasets,2026-06-05,Registered,6051
+HuBMAP Datasets,2026-06-12,Unregistered,4911
+HuBMAP Datasets,2026-06-12,Exempt,375
+HuBMAP Datasets,2026-06-12,Registered,6067
 HuBMAP Blocks,2026-05-18,Unregistered,2592
 HuBMAP Blocks,2026-05-18,Exempt,0
 HuBMAP Blocks,2026-05-18,Registered,2589
@@ -26,6 +29,9 @@ HuBMAP Blocks,2026-05-19,Registered,2589
 HuBMAP Blocks,2026-06-05,Unregistered,2604
 HuBMAP Blocks,2026-06-05,Exempt,0
 HuBMAP Blocks,2026-06-05,Registered,2590
+HuBMAP Blocks,2026-06-12,Unregistered,2604
+HuBMAP Blocks,2026-06-12,Exempt,0
+HuBMAP Blocks,2026-06-12,Registered,2590
 SenNet Datasets,2026-02-06,Unregistered,1082
 SenNet Datasets,2026-02-06,Exempt,2584
 SenNet Datasets,2026-02-06,Registered,2186
@@ -59,6 +65,9 @@ SenNet Datasets,2026-05-19,Registered,1721
 SenNet Datasets,2026-06-05,Unregistered,130
 SenNet Datasets,2026-06-05,Exempt,2450
 SenNet Datasets,2026-06-05,Registered,1771
+SenNet Datasets,2026-06-12,Unregistered,130
+SenNet Datasets,2026-06-12,Exempt,2450
+SenNet Datasets,2026-06-12,Registered,1813
 SenNet Blocks,2026-05-18,Unregistered,1090
 SenNet Blocks,2026-05-18,Exempt,3715
 SenNet Blocks,2026-05-18,Registered,2197
@@ -68,6 +77,9 @@ SenNet Blocks,2026-05-19,Registered,2197
 SenNet Blocks,2026-06-05,Unregistered,1019
 SenNet Blocks,2026-06-05,Exempt,3745
 SenNet Blocks,2026-06-05,Registered,2341
+SenNet Blocks,2026-06-12,Unregistered,1027
+SenNet Blocks,2026-06-12,Exempt,3793
+SenNet Blocks,2026-06-12,Registered,2341
 CTann,2026-04-02,Unregistered,25
 CTann,2026-04-02,Exempt,83
 CTann,2026-04-02,Registered,7

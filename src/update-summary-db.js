@@ -28,10 +28,15 @@ function dedupSumarries(summaries) {
   ).sort((a, b) => a.Date - b.Date);
 }
 
-function fetchCsv(url) {
-  return fetch(url)
-    .then((r) => r.text())
-    .then((csvText) => Papa.parse(csvText, { header: true, skipEmptyLines: true }).data);
+async function fetchCsv(url) {
+  let csvText;
+  if (url.startsWith('https://cns-iu.github.io/hra-rui-dashboard/')) {
+    const path = url.replace('https://cns-iu.github.io/hra-rui-dashboard/', 'docs/');
+    csvText = readFileSync(path, 'utf-8');
+  } else {
+    csvText = await fetch(url).then((r) => r.text());
+  }
+  return Papa.parse(csvText, { header: true, skipEmptyLines: true }).data;
 }
 
 function updateSelectParamOptions(spec, paramName, options) {

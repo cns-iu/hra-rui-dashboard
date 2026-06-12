@@ -77,10 +77,7 @@
           "KPMP Healthy",
           "KPMP Unhealthy",
           "CIFAR",
-          "OMAP",
-          "CDE",
-          "SWAT - PRIVATE",
-          "MOSDAP - PRIVATE"
+          "OMAP"
         ],
         "name": "Data Source "
       }
