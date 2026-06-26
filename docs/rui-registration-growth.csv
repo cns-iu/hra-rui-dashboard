@@ -155,3 +155,9 @@ OMAP,2026-05-01,Registered,5
 OMAP,2026-06-01,Unregistered,6
 OMAP,2026-06-01,Exempt,18
 OMAP,2026-06-01,Registered,14
+MOSDAP,,Unregistered,
+MOSDAP,,Exempt,
+MOSDAP,,Registered,
+SWAT,,Unregistered,
+SWAT,,Exempt,
+SWAT,,Registered,
