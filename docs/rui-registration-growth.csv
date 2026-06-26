@@ -116,18 +116,12 @@ KPMP Healthy,2026-01-01,Registered,1062
 KPMP Healthy,2026-03-01,Unregistered,0
 KPMP Healthy,2026-03-01,Exempt,0
 KPMP Healthy,2026-03-01,Registered,1062
-KPMP Healthy,2026-07-01,Unregistered,
-KPMP Healthy,2026-07-01,Exempt,
-KPMP Healthy,2026-07-01,Registered,
 KPMP Unhealthy,2026-01-01,Unregistered,0
 KPMP Unhealthy,2026-01-01,Exempt,0
 KPMP Unhealthy,2026-01-01,Registered,11510
 KPMP Unhealthy,2026-03-01,Unregistered,0
 KPMP Unhealthy,2026-03-01,Exempt,0
 KPMP Unhealthy,2026-03-01,Registered,11510
-KPMP Unhealthy,2026-07-01,Unregistered,
-KPMP Unhealthy,2026-07-01,Exempt,
-KPMP Unhealthy,2026-07-01,Registered,
 CIFAR,2026-04-01,Unregistered,0
 CIFAR,2026-04-01,Exempt,0
 CIFAR,2026-04-01,Registered,110
@@ -155,9 +149,33 @@ OMAP,2026-05-01,Registered,5
 OMAP,2026-06-01,Unregistered,6
 OMAP,2026-06-01,Exempt,18
 OMAP,2026-06-01,Registered,14
-MOSDAP,,Unregistered,
-MOSDAP,,Exempt,
-MOSDAP,,Registered,
-SWAT,,Unregistered,
-SWAT,,Exempt,
-SWAT,,Registered,
+MOSDAP,2026-05-01,Unregistered,200
+MOSDAP,2026-05-01,Exempt,0
+MOSDAP,2026-05-01,Registered,0
+MOSDAP,2026-06-04,Unregistered,190
+MOSDAP,2026-06-04,Exempt,0
+MOSDAP,2026-06-04,Registered,10
+MOSDAP,2026-06-12,Unregistered,176
+MOSDAP,2026-06-12,Exempt,0
+MOSDAP,2026-06-12,Registered,24
+MOSDAP,2026-06-19,Unregistered,176
+MOSDAP,2026-06-19,Exempt,0
+MOSDAP,2026-06-19,Registered,24
+MOSDAP,2026-06-26,Unregistered,176
+MOSDAP,2026-06-26,Exempt,0
+MOSDAP,2026-06-26,Registered,24
+SWAT,2026-02-06,Unregistered,100
+SWAT,2026-02-06,Exempt,38
+SWAT,2026-02-06,Registered,152
+SWAT,2026-03-06,Unregistered,100
+SWAT,2026-03-06,Exempt,38
+SWAT,2026-03-06,Registered,152
+SWAT,2026-04-03,Unregistered,100
+SWAT,2026-04-03,Exempt,38
+SWAT,2026-04-03,Registered,152
+SWAT,2026-05-01,Unregistered,80
+SWAT,2026-05-01,Exempt,38
+SWAT,2026-05-01,Registered,172
+SWAT,2026-06-01,Unregistered,75
+SWAT,2026-06-01,Exempt,38
+SWAT,2026-06-01,Registered,177
