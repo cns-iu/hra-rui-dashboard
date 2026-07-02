@@ -47,6 +47,16 @@ const UNREGISTERED_QUERY = {
           field: 'ancestors.rui_location',
         },
       },
+      {
+        term: {
+          'sources.source_type.keyword': 'Mouse',
+        },
+      },
+      {
+        term: {
+          'source.source_type.keyword': 'Mouse',
+        },
+      },
     ]
   },
 };
