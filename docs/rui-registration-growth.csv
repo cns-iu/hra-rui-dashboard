@@ -134,9 +134,9 @@ CTann,2026-06-05,Registered,47
 CTann,2026-07-03,Unregistered,10
 CTann,2026-07-03,Exempt,98
 CTann,2026-07-03,Registered,47
-CTann,2026-08-03,Unregistered,10
-CTann,2026-08-03,Exempt,98
-CTann,2026-08-03,Registered,47
+CTann,2026-07-31,Unregistered,10
+CTann,2026-07-31,Exempt,98
+CTann,2026-07-31,Registered,47
 KPMP Healthy,2026-01-01,Unregistered,0
 KPMP Healthy,2026-01-01,Exempt,0
 KPMP Healthy,2026-01-01,Registered,1062
@@ -146,9 +146,9 @@ KPMP Healthy,2026-03-01,Registered,1062
 KPMP Healthy,2026-07-01,Unregistered,0
 KPMP Healthy,2026-07-01,Exempt,0
 KPMP Healthy,2026-07-01,Registered,805
-KPMP Healthy,2026-08-03,Unregistered,0
-KPMP Healthy,2026-08-03,Exempt,0
-KPMP Healthy,2026-08-03,Registered,805
+KPMP Healthy,2026-07-31,Unregistered,0
+KPMP Healthy,2026-07-31,Exempt,0
+KPMP Healthy,2026-07-31,Registered,805
 KPMP Unhealthy,2026-01-01,Unregistered,0
 KPMP Unhealthy,2026-01-01,Exempt,0
 KPMP Unhealthy,2026-01-01,Registered,11510
@@ -170,9 +170,9 @@ CIFAR,2026-06-05,Registered,116
 CIFAR,2026-07-03,Unregistered,0
 CIFAR,2026-07-03,Exempt,0
 CIFAR,2026-07-03,Registered,116
-CIFAR,2026-08-03,Unregistered,0
-CIFAR,2026-08-03,Exempt,0
-CIFAR,2026-08-03,Registered,116
+CIFAR,2026-07-31,Unregistered,0
+CIFAR,2026-07-31,Exempt,0
+CIFAR,2026-07-31,Registered,116
 OMAP,2026-02-06,Unregistered,5
 OMAP,2026-02-06,Exempt,27
 OMAP,2026-02-06,Registered,5
@@ -191,9 +191,9 @@ OMAP,2026-06-01,Registered,14
 OMAP,2026-07-03,Unregistered,6
 OMAP,2026-07-03,Exempt,18
 OMAP,2026-07-03,Registered,14
-OMAP,2026-08-03,Unregistered,6
-OMAP,2026-08-03,Exempt,18
-OMAP,2026-08-03,Registered,14
+OMAP,2026-07-31,Unregistered,6
+OMAP,2026-07-31,Exempt,18
+OMAP,2026-07-31,Registered,14
 MOSDAP,2026-05-01,Unregistered,200
 MOSDAP,2026-05-01,Exempt,0
 MOSDAP,2026-05-01,Registered,0
@@ -209,9 +209,9 @@ MOSDAP,2026-06-19,Registered,24
 MOSDAP,2026-06-26,Unregistered,176
 MOSDAP,2026-06-26,Exempt,0
 MOSDAP,2026-06-26,Registered,24
-MOSDAP,2026-08-03,Unregistered,153
-MOSDAP,2026-08-03,Exempt,0
-MOSDAP,2026-08-03,Registered,47
+MOSDAP,2026-07-31,Unregistered,153
+MOSDAP,2026-07-31,Exempt,0
+MOSDAP,2026-07-31,Registered,47
 SWAT,2026-02-06,Unregistered,100
 SWAT,2026-02-06,Exempt,38
 SWAT,2026-02-06,Registered,152
@@ -230,3 +230,12 @@ SWAT,2026-06-01,Registered,177
 SWAT,2026-07-03,Unregistered,75
 SWAT,2026-07-03,Exempt,38
 SWAT,2026-07-03,Registered,177
+CDE,2026-06-05,Unregistered,0
+CDE,2026-06-05,Exempt,211
+CDE,2026-06-05,Registered,218
+CDE,2026-07-03,Unregistered,0
+CDE,2026-07-03,Exempt,211
+CDE,2026-07-03,Registered,218
+CDE,2026-07-31,Unregistered,0
+CDE,2026-07-31,Exempt,211
+CDE,2026-07-31,Registered,218
