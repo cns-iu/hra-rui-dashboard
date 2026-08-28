@@ -80,7 +80,8 @@
           "OMAP",
           "MOSDAP",
           "SWAT",
-          "CDE"
+          "CDE",
+          "GTEx"
         ],
         "name": "Data Source "
       }
