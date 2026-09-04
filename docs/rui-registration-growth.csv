@@ -182,9 +182,6 @@ KPMP Healthy,2026-07-31,Registered,805
 KPMP Healthy,2026-08-14,Unregistered,0
 KPMP Healthy,2026-08-14,Exempt,0
 KPMP Healthy,2026-08-14,Registered,805
-KPMP Healthy,2026-08-28,Unregistered,
-KPMP Healthy,2026-08-28,Exempt,
-KPMP Healthy,2026-08-28,Registered,
 KPMP Unhealthy,2026-01-01,Unregistered,0
 KPMP Unhealthy,2026-01-01,Exempt,0
 KPMP Unhealthy,2026-01-01,Registered,11510
@@ -197,9 +194,6 @@ KPMP Unhealthy,2026-07-01,Registered,11510
 KPMP Unhealthy,2026-08-14,Unregistered,0
 KPMP Unhealthy,2026-08-14,Exempt,0
 KPMP Unhealthy,2026-08-14,Registered,12204
-KPMP Unhealthy,2026-08-28,Unregistered,
-KPMP Unhealthy,2026-08-28,Exempt,
-KPMP Unhealthy,2026-08-28,Registered,
 CIFAR,2026-04-01,Unregistered,0
 CIFAR,2026-04-01,Exempt,0
 CIFAR,2026-04-01,Registered,110
