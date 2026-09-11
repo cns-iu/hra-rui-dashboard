@@ -353264,7 +353264,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0021aa48486b9ee981405a668b483606",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=0021aa48486b9ee981405a668b483606",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -353459,7 +353459,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/02c4f7795ce5318dad61b7baffee5345",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=02c4f7795ce5318dad61b7baffee5345",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -353964,6 +353964,19 @@
         "3c3f3e6e41de340826e887ab19c6b121"
       ],
       "sennet_id": "SNT692.BXRW.622"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/070594ae1de9240079f05a868a29e717",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=070594ae1de9240079f05a868a29e717",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT668.TRTQ.746"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/07184eef10e373f110a06e59cf05f56a",
@@ -354703,6 +354716,19 @@
       "sennet_id": "SNT692.NKPW.397"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0e31d087f750c2b98a80b0ca396a5784",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0e31d087f750c2b98a80b0ca396a5784",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT342.DMJF.956"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0e38b01533af5428ec451b86b20208ad",
       "@type": "Dataset",
       "label": "Registered 11/12/2025, SenNet Process, TMC - Columbia University",
@@ -355412,6 +355438,19 @@
       "sennet_id": "SNT529.NGLZ.688"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1426f00e934de0b8dc9125432a73a2d0",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1426f00e934de0b8dc9125432a73a2d0",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT497.BFCV.723"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/14294f935b650399a36baec1238ce740",
       "@type": "Dataset",
       "label": "Registered 12/4/2024, SenNet Process, TMC - Columbia University",
@@ -355937,7 +355976,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1933bc5cd0a59ede4d19cd09b0d336b4",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=1933bc5cd0a59ede4d19cd09b0d336b4",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -356187,6 +356226,19 @@
       "sennet_id": "SNT673.PWMC.758"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1a8d963e33b6feeb506c1349f1b9e93f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1a8d963e33b6feeb506c1349f1b9e93f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT464.WZVS.834"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/1aa28be984824772d2a37310f126ba98",
       "@type": "Dataset",
       "label": "Registered 12/10/2025, SenNet Process, TMC - Columbia University",
@@ -356237,6 +356289,19 @@
         "16655aa34cef160cc4a778dc9eaf51b9"
       ],
       "sennet_id": "SNT489.WKXT.667"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1b2981dabbed5895b436c23e291baeab",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1b2981dabbed5895b436c23e291baeab",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT486.HLRK.252"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1b2c84fc7cd420696e53e876c8b3bdde",
@@ -356396,6 +356461,19 @@
         "0f44b899f87f69f0f89b9c0d9659fe9c"
       ],
       "sennet_id": "SNT775.ZZNT.648"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1c7ce63c8c24bac6ccaa45b813290004",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1c7ce63c8c24bac6ccaa45b813290004",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT695.DFSG.928"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1c90b19e46982bc8c355a8742f7b5988",
@@ -357869,7 +357947,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/29c03fa53a801dc5637d11c907f6b097",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=29c03fa53a801dc5637d11c907f6b097",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -358286,6 +358364,19 @@
       "sennet_id": "SNT398.XTWP.354"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2efff7416e8e196c780c728964cc7d32",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2efff7416e8e196c780c728964cc7d32",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT445.RWCK.877"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/2f2969defd775509587c780534514c99",
       "@type": "Dataset",
       "label": "Registered 7/20/2026, SenNet Process, TMC - UConn Health",
@@ -358479,6 +358570,19 @@
         "36f29e5f15b9235b43315c28951636ce"
       ],
       "sennet_id": "SNT259.BMKL.534"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/315315e46fdd9b6fdb9e8773bcedbc4b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=315315e46fdd9b6fdb9e8773bcedbc4b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT634.PGWM.423"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/31631fbd003211a6a3d0bc34ae631303",
@@ -359596,6 +359700,19 @@
       "sennet_id": "SNT776.QQGW.623"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3c15c4bbad6c2d964b34c42aeb220209",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3c15c4bbad6c2d964b34c42aeb220209",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT365.VJVZ.234"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/3c2cf99609557ec9d0176190805d9f06",
       "@type": "Dataset",
       "label": "Registered 6/12/2026, SenNet Process, TMC - Yale University - Fan",
@@ -359751,6 +359868,19 @@
         "048dd8e682b0d5a7b71d087a60e01aa0"
       ],
       "sennet_id": "SNT834.JVWX.622"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3d6afa812ecf10d98335d11ebc03a681",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3d6afa812ecf10d98335d11ebc03a681",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT297.RBZR.538"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3d9cb3a7d90812ed8bb7670c1604506b",
@@ -360119,6 +360249,19 @@
       "sennet_id": "SNT927.SXRP.663"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/40850d64f404a968ad2235a6493ed266",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=40850d64f404a968ad2235a6493ed266",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b02d73fd96d92f91ac263da2cb3f153"
+      ],
+      "sennet_id": "SNT467.MWCG.686"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/40bc3f13a98b3c8dba3655e7d5f6501a",
       "@type": "Dataset",
       "label": "Registered 6/12/2026, SenNet Process, TMC - Yale University - Fan",
@@ -360156,6 +360299,19 @@
         "bb49ffd05dc65342a6f467223a2b1793"
       ],
       "sennet_id": "SNT497.GHJR.567"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/410903630f257193ebd2fa491b10157e",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=410903630f257193ebd2fa491b10157e",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT297.ZRPC.637"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/41104ed0a70dc357b8362928af2421e5",
@@ -360851,7 +361007,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4537c902e2ecb33a739b7b4746432139",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4537c902e2ecb33a739b7b4746432139",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -361141,7 +361297,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/47b18285d076a011490a1a1f55be78f2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=47b18285d076a011490a1a1f55be78f2",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -361283,6 +361439,19 @@
         "b4c301969bb730e3e0062fbeb514cd11"
       ],
       "sennet_id": "SNT949.FFWN.438"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/491967fe75c2159987e8a2f9a726e823",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=491967fe75c2159987e8a2f9a726e823",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "6b4c1efaaf5c1cee5a5c53da3781c273"
+      ],
+      "sennet_id": "SNT723.FNKK.875"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/49339c1d897fee0928e7d3cf3e81ff31",
@@ -361547,6 +361716,19 @@
         "afb7b7da83425c7a82801e53b6f4534a"
       ],
       "sennet_id": "SNT252.QNZW.269"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4baa31a14700a8c1c9dfeed33a8c03f8",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4baa31a14700a8c1c9dfeed33a8c03f8",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT453.PHQW.258"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4baa5f4b6bd037f3b7f38e6202ebf784",
@@ -362885,6 +363067,19 @@
       "sennet_id": "SNT699.HDRF.264"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5743ef5c1339c3d48f38004dc620cd8a",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5743ef5c1339c3d48f38004dc620cd8a",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT595.CKDV.643"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/576d1130e9d5c8cfda2cf151a8b7f571",
       "@type": "Dataset",
       "label": "Registered 2/13/2025, SenNet Process, TMC - University of Pittsburgh",
@@ -363554,7 +363749,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5bd72d32629103b3c827544f97675830",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5bd72d32629103b3c827544f97675830",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -363751,6 +363946,19 @@
       "sennet_id": "SNT238.MJLX.284"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5d557803bf9773c6dedc0fef3dc17e45",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5d557803bf9773c6dedc0fef3dc17e45",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "927c75c20477638034b82f70bf090819"
+      ],
+      "sennet_id": "SNT277.LZGJ.397"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/5d81fc145fb0a13eae3bd7c7dbd88fb7",
       "@type": "Dataset",
       "label": "Registered 10/18/2024, SenNet Process, TMC - UConn Health",
@@ -363857,7 +364065,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5e315406939d24b5ffa14a279d1c2039",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5e315406939d24b5ffa14a279d1c2039",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -364227,6 +364435,19 @@
       "sennet_id": "SNT927.FSML.574"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6295eac3f0e15949f71e59b4aa77dadf",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6295eac3f0e15949f71e59b4aa77dadf",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT246.KWDB.983"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/62a9640975da3d3b5b2495d305cf2a46",
       "@type": "Dataset",
       "label": "Registered 6/25/2025, SenNet Process, TMC - UConn Health",
@@ -364530,6 +364751,19 @@
       "sennet_id": "SNT575.PMHQ.397"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/657b93a0d3d04919ee76b9178e5f3b0f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=657b93a0d3d04919ee76b9178e5f3b0f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT562.GXKW.672"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/65a8733f68358cf43e0f05e37abb88a5",
       "@type": "Dataset",
       "label": "Registered 1/2/2025, SenNet Process, TMC - Columbia University",
@@ -364754,6 +364988,19 @@
       "sennet_id": "SNT662.DFGZ.599"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/67047256bc2655e093af013a90997afe",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=67047256bc2655e093af013a90997afe",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT474.KPRL.952"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/6713b1ff05903b4edb83e696e368f071",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -364808,7 +365055,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6767e21b17d49f6dd73d7b0a63467146",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6767e21b17d49f6dd73d7b0a63467146",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -365042,7 +365289,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/69a1a5197f7fd2096b850d443c71e755",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=69a1a5197f7fd2096b850d443c71e755",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -365408,7 +365655,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6d9f55cad3255dcac44504c939e33045",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6d9f55cad3255dcac44504c939e33045",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -365535,6 +365782,19 @@
         "876465c8bc6cf38f6cdfb8a65ba74744"
       ],
       "sennet_id": "SNT242.PRTR.536"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6f928031947c5d0a8b4a5c00f855076b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6f928031947c5d0a8b4a5c00f855076b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT367.WHGJ.266"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6fa1cb1b34077cc9c11e600868368453",
@@ -365735,7 +365995,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/71112dce37d1374fdd73b713f96b2488",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Columbia University",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=71112dce37d1374fdd73b713f96b2488",
       "description": "Dataset Type: Visium (no probes)",
       "technology": "Visium (no probes)",
@@ -366586,7 +366846,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7a7fadd48b2643b9b0dcd7e2122dc815",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7a7fadd48b2643b9b0dcd7e2122dc815",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -367030,7 +367290,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7fc5414041f5f52ef5704849c6cadefa",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Columbia University",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7fc5414041f5f52ef5704849c6cadefa",
       "description": "Dataset Type: Visium (no probes)",
       "technology": "Visium (no probes)",
@@ -367461,6 +367721,19 @@
         "bb49ffd05dc65342a6f467223a2b1793"
       ],
       "sennet_id": "SNT499.ZXRV.452"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/83699377b74e4e8baa5e6115c00a0d51",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=83699377b74e4e8baa5e6115c00a0d51",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT649.VNHX.262"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8379cfbeaba801d6a654b03373b92a78",
@@ -368002,6 +368275,19 @@
       "sennet_id": "SNT929.VJCK.782"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/883a65d62ea8327329ab3028191e5d40",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=883a65d62ea8327329ab3028191e5d40",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b02d73fd96d92f91ac263da2cb3f153"
+      ],
+      "sennet_id": "SNT453.XVTL.627"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/883db5545e48507613c46bc04cf8afc6",
       "@type": "Dataset",
       "label": "Registered 5/27/2026, SenNet Process, TMC - UConn Health",
@@ -368120,9 +368406,22 @@
       "sennet_id": "SNT296.KJTV.974"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/88e8bb1dc88ce7bc0826e02026cf3d9c",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=88e8bb1dc88ce7bc0826e02026cf3d9c",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT964.PQDS.348"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/88e8daf60038c21bf2a097205a69759a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=88e8daf60038c21bf2a097205a69759a",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -368227,7 +368526,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8a0add2eb3259da7fc224475e56c0b63",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=8a0add2eb3259da7fc224475e56c0b63",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -368962,7 +369261,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/928e8a573e3d853dd52f26174023d650",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, Sergii Domanskyi, TMC - UConn Health",
+      "label": "Registered 9/8/2026, Sergii Domanskyi, TMC - UConn Health",
       "link": "https://data.sennetconsortium.org/dataset?uuid=928e8a573e3d853dd52f26174023d650",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -369174,7 +369473,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/93f6a5aaeb4fc1daa904e7f7224635d1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=93f6a5aaeb4fc1daa904e7f7224635d1",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -369972,6 +370271,19 @@
       "sennet_id": "SNT645.GFXF.795"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/9b2eb8c5e3302a7c6c5a9f535c427bee",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=9b2eb8c5e3302a7c6c5a9f535c427bee",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT595.WWWK.447"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/9b33dc7aa2118964cb5f1c4e98e0b56e",
       "@type": "Dataset",
       "label": "Registered 7/18/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -370419,7 +370731,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/9e4f2c5d8e174a96229bae19aca1a907",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=9e4f2c5d8e174a96229bae19aca1a907",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -370668,7 +370980,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a1416d731f9783e63d806e5100a4a5fc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a1416d731f9783e63d806e5100a4a5fc",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -370943,6 +371255,19 @@
       "sennet_id": "SNT723.THJD.464"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a3ba76067aaf6639f3e62244b9fac759",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a3ba76067aaf6639f3e62244b9fac759",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT794.FCFQ.938"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/a3bae0e6294f8ec2e756d589dd6cc92d",
       "@type": "Dataset",
       "label": "Registered 6/10/2026, Sergii Domanskyi, TMC - UConn Health",
@@ -371203,6 +371528,19 @@
         "47af4bb89e8d207fde0e10a9bfdb9196"
       ],
       "sennet_id": "SNT342.LJJG.548"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a647ae36204bd600ec5ed45f2ae3f4de",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a647ae36204bd600ec5ed45f2ae3f4de",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT682.JKDP.228"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a64c82de7a98f0b88d790d3844f79109",
@@ -371577,7 +371915,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a9ad1c1a1a799b7d726e5502d55777cc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a9ad1c1a1a799b7d726e5502d55777cc",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -371852,7 +372190,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/aba31cc0a750423d495b1090da8c2104",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=aba31cc0a750423d495b1090da8c2104",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -372136,6 +372474,19 @@
         "3dc4bd02a3e78c2ab6d4e2749880e37d"
       ],
       "sennet_id": "SNT586.GWVQ.588"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ad6d2619bd5ec405063f19124254479a",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ad6d2619bd5ec405063f19124254479a",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT527.TNVC.337"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ad93f17fd14a9d75d979f03ea73c440c",
@@ -372878,6 +373229,19 @@
       "sennet_id": "SNT548.NPXH.263"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b32beabc896baaf07943b716a24b6fb8",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b32beabc896baaf07943b716a24b6fb8",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT389.VSNV.665"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b341c5634baff6caab1af6dcb30954c8",
       "@type": "Dataset",
       "label": "Registered 6/6/2025, SenNet Process, TMC - UConn Health",
@@ -373353,7 +373717,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b86581fb5ecf418f6f20a0cbdc2fe4ac",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b86581fb5ecf418f6f20a0cbdc2fe4ac",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -373995,7 +374359,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bf7c50f1fd2f8abccb2e6cc1eb553a7b",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=bf7c50f1fd2f8abccb2e6cc1eb553a7b",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -374048,7 +374412,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bfd679784db8d47e8cf52ee92f8ada69",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=bfd679784db8d47e8cf52ee92f8ada69",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -374965,7 +375329,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c6e73686ae1e8c06f96b4492df411bba",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c6e73686ae1e8c06f96b4492df411bba",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -375031,7 +375395,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c739bda9785c19d4860e3212c02e4b13",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c739bda9785c19d4860e3212c02e4b13",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -375752,6 +376116,19 @@
       "sennet_id": "SNT785.TTRD.954"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ce6cebbbfd6cc8b60efbe9841150c02b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ce6cebbbfd6cc8b60efbe9841150c02b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT229.JQSV.928"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ce73bf13de74eec277d9b08b8298f024",
       "@type": "Dataset",
       "label": "Registered 7/20/2026, SenNet Process, TMC - Yale University - Fan",
@@ -375780,7 +376157,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ce7d5f1a1c4d55f286279cd39fadc988",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ce7d5f1a1c4d55f286279cd39fadc988",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -376503,7 +376880,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d367b9546373b498a78e86fb54b00511",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d367b9546373b498a78e86fb54b00511",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -376869,6 +377246,19 @@
       "sennet_id": "SNT685.SXZP.434"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/d7b5b920b1965e82894ce0fe2a008e74",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=d7b5b920b1965e82894ce0fe2a008e74",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT242.KKSM.526"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/d7c9fcf44a1ef06aa0734c9477361713",
       "@type": "Dataset",
       "label": "Registered 12/18/2024, SenNet Process, TMC - UConn Health",
@@ -377182,6 +377572,19 @@
         "13ebbd4db909c391dcdf1b457a37e592"
       ],
       "sennet_id": "SNT396.HPHF.976"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/da7b513255cb8f58f9fd5c61b2824718",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=da7b513255cb8f58f9fd5c61b2824718",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT453.DQMX.694"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/da9a35b0229a461f6f132a46bcf1c6e3",
@@ -377537,6 +377940,19 @@
       "sennet_id": "SNT956.TXKD.598"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ddd1204291617e867a05ce530732a40e",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ddd1204291617e867a05ce530732a40e",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT369.TZGH.379"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ddd74957caa5f6970f74a108b92c09f5",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -377605,7 +378021,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/de0b1c9923d9e84df76c1d4c0323d623",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=de0b1c9923d9e84df76c1d4c0323d623",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -377903,6 +378319,19 @@
         "3abe9883f31c3f44fb94c51c98b4e9d7"
       ],
       "sennet_id": "SNT557.TVWC.568"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e0f302298f987d9fd2124d05300f0c3f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e0f302298f987d9fd2124d05300f0c3f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT634.PXPC.246"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e0f5983f00d3b23c1c7f0ecaa51858f5",
@@ -378236,6 +378665,19 @@
       "sennet_id": "SNT986.JDMG.549"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e355e6395abbb8a74ed781f8ecc5fdd7",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e355e6395abbb8a74ed781f8ecc5fdd7",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT325.RVFW.867"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e3a28e8243f7a8fa5e37619459ef73cd",
       "@type": "Dataset",
       "label": "Registered 11/6/2024, SenNet Process, TDA - Buck Institute",
@@ -378265,7 +378707,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e3c86e4240482523cccfbbe4443a4da7",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=e3c86e4240482523cccfbbe4443a4da7",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -379132,7 +379574,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ec339ab29cd0819d4c8d361676facfd1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ec339ab29cd0819d4c8d361676facfd1",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -379911,7 +380353,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f3d8bd2c570c71d27718577e39eaa882",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f3d8bd2c570c71d27718577e39eaa882",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -379974,6 +380416,19 @@
         "3c595cf3650fe277508049f7be5f8a72"
       ],
       "sennet_id": "SNT883.DQLK.423"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f469d0e0375da5d3ea465ac7a0764961",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f469d0e0375da5d3ea465ac7a0764961",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "927c75c20477638034b82f70bf090819"
+      ],
+      "sennet_id": "SNT427.QRVF.423"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f47afa160ed8dd70318c4ad1367facd1",
@@ -381459,6 +381914,19 @@
       "sennet_id": "SNT473.DWQV.328"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ff4962132c14ee5228fdddad08b32e63",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ff4962132c14ee5228fdddad08b32e63",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT923.GXVN.556"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ff6cbf650029540b0a803d6c3bf9c210",
       "@type": "Dataset",
       "label": "Registered 9/25/2024, SenNet Process, TMC - University of Pittsburgh",
@@ -381536,6 +382004,19 @@
         "2b2f480469b29073f3ee7c781e7c5b98"
       ],
       "sennet_id": "SNT858.PKNS.256"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ffdcc056a1dcd1850dfaae561f501e93",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ffdcc056a1dcd1850dfaae561f501e93",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT624.VTVL.692"
     }
   ],
   "exemptDatasets": [
@@ -381747,7 +382228,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/10074ee6667927c652d69cda3bfa4a86",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=10074ee6667927c652d69cda3bfa4a86",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -381876,7 +382357,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/17a93dac620311d18fc49828c376d593",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=17a93dac620311d18fc49828c376d593",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -382116,7 +382597,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/228ffdd77a1076acdaf067a71359088d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=228ffdd77a1076acdaf067a71359088d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -382274,7 +382755,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/284d99bce45d3a1b846f25937943d76b",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=284d99bce45d3a1b846f25937943d76b",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -382481,7 +382962,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3380f9b5e2448714a280c0769ed9d96a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3380f9b5e2448714a280c0769ed9d96a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -382514,7 +382995,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/346e27ff14687d788e3af6f35eccebb0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=346e27ff14687d788e3af6f35eccebb0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -382850,7 +383331,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4453b7b8bb3eda61961e69de7ac6bb55",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383058,7 +383539,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4c06e68a574326424d8fa6cfbd29b140",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4c06e68a574326424d8fa6cfbd29b140",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383152,7 +383633,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/51c67ed08e4b6bb8f975c8d925cef1a9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=51c67ed08e4b6bb8f975c8d925cef1a9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383168,7 +383649,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5747da53e95525116d4fcfdd11ff74a0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5747da53e95525116d4fcfdd11ff74a0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383424,7 +383905,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62a09b091e5c636f1062d3afeaeb4aa6",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62a09b091e5c636f1062d3afeaeb4aa6",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383472,7 +383953,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6343913b935e9953334e5657fa052640",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6343913b935e9953334e5657fa052640",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383536,7 +384017,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6613d7cef0080bc2a0a88e630f2e2658",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6613d7cef0080bc2a0a88e630f2e2658",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383553,7 +384034,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/669b1117fce274b07e3aa551506564b2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=669b1117fce274b07e3aa551506564b2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383650,7 +384131,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/723a6ab523670b3db40fe271648e40e9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=723a6ab523670b3db40fe271648e40e9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383666,7 +384147,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/72d963352aafaa1d8041648c87e69fb9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=72d963352aafaa1d8041648c87e69fb9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383698,7 +384179,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/744db4058a85ced80a31dc07726bde3d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=744db4058a85ced80a31dc07726bde3d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383715,7 +384196,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/74866821948b3a535d4f30f753a29b6c",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=74866821948b3a535d4f30f753a29b6c",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -383907,7 +384388,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7e1c8cc2f8b587348e1c72edabdf9050",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7e1c8cc2f8b587348e1c72edabdf9050",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384034,7 +384515,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/850eb1396482990545409145c0675dfd",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=850eb1396482990545409145c0675dfd",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384129,7 +384610,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/89943ff46996f8206c8957befc6db857",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=89943ff46996f8206c8957befc6db857",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384146,7 +384627,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8c1287730433faa124ab12364d5d7990",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=8c1287730433faa124ab12364d5d7990",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384577,7 +385058,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a9a0161ba4554b65c12dc78ad1821de1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a9a0161ba4554b65c12dc78ad1821de1",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384643,7 +385124,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ad0e90c96bef5e9afb0432f8f10334fc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ad0e90c96bef5e9afb0432f8f10334fc",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384692,7 +385173,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/afc8aa5aac98d3c01d75b48934410420",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=afc8aa5aac98d3c01d75b48934410420",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384787,7 +385268,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b42676dc96ed56aa7023828daf672def",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b42676dc96ed56aa7023828daf672def",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384804,7 +385285,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5c0998b3e7fc95ceffaa2ddca71da26",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5c0998b3e7fc95ceffaa2ddca71da26",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -384821,7 +385302,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5cc6229699a1ad2fe62613ae4a43747",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385077,7 +385558,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c37b8e251ef659c3ce3cdb099f0d4ff2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c37b8e251ef659c3ce3cdb099f0d4ff2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385254,7 +385735,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cc06d8f20471d509b1f777b837b152f5",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cc06d8f20471d509b1f777b837b152f5",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385350,7 +385831,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cfbb078aebecc2da68d70b3c601ccc39",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cfbb078aebecc2da68d70b3c601ccc39",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385445,7 +385926,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d44d4e23267943a48940bbbc5179a07d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d44d4e23267943a48940bbbc5179a07d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385493,7 +385974,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d6632a09aca9b0c9fd8c9a5206cc8665",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -385621,7 +386102,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dd1bcb6f2c29c426783af691a186138a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dd1bcb6f2c29c426783af691a186138a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -386627,7 +387108,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/10074ee6667927c652d69cda3bfa4a86",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=10074ee6667927c652d69cda3bfa4a86",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -386787,7 +387268,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/17a93dac620311d18fc49828c376d593",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=17a93dac620311d18fc49828c376d593",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -387062,7 +387543,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/228ffdd77a1076acdaf067a71359088d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=228ffdd77a1076acdaf067a71359088d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -387252,7 +387733,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/284d99bce45d3a1b846f25937943d76b",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=284d99bce45d3a1b846f25937943d76b",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -387477,7 +387958,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3380f9b5e2448714a280c0769ed9d96a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3380f9b5e2448714a280c0769ed9d96a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -387510,7 +387991,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/346e27ff14687d788e3af6f35eccebb0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=346e27ff14687d788e3af6f35eccebb0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -387862,7 +388343,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4453b7b8bb3eda61961e69de7ac6bb55",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388088,7 +388569,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4c06e68a574326424d8fa6cfbd29b140",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4c06e68a574326424d8fa6cfbd29b140",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388215,7 +388696,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/51c67ed08e4b6bb8f975c8d925cef1a9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=51c67ed08e4b6bb8f975c8d925cef1a9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388249,7 +388730,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5747da53e95525116d4fcfdd11ff74a0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5747da53e95525116d4fcfdd11ff74a0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388330,7 +388811,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/58dca6e573b159ead651467ba115b7cf",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Pittsburgh",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Pittsburgh",
       "link": "https://data.sennetconsortium.org/dataset?uuid=58dca6e573b159ead651467ba115b7cf",
       "description": "Dataset Type: PhenoCycler",
       "technology": "PhenoCycler",
@@ -388584,7 +389065,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62a09b091e5c636f1062d3afeaeb4aa6",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62a09b091e5c636f1062d3afeaeb4aa6",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388632,7 +389113,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6343913b935e9953334e5657fa052640",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6343913b935e9953334e5657fa052640",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388711,7 +389192,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6613d7cef0080bc2a0a88e630f2e2658",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6613d7cef0080bc2a0a88e630f2e2658",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388728,7 +389209,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/669b1117fce274b07e3aa551506564b2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=669b1117fce274b07e3aa551506564b2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388876,7 +389357,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/723a6ab523670b3db40fe271648e40e9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=723a6ab523670b3db40fe271648e40e9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388892,7 +389373,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/72d963352aafaa1d8041648c87e69fb9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=72d963352aafaa1d8041648c87e69fb9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388924,7 +389405,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/744db4058a85ced80a31dc07726bde3d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=744db4058a85ced80a31dc07726bde3d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -388941,7 +389422,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/74866821948b3a535d4f30f753a29b6c",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=74866821948b3a535d4f30f753a29b6c",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -389168,7 +389649,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7e1c8cc2f8b587348e1c72edabdf9050",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7e1c8cc2f8b587348e1c72edabdf9050",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -389345,7 +389826,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/850eb1396482990545409145c0675dfd",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=850eb1396482990545409145c0675dfd",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -389473,7 +389954,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/89943ff46996f8206c8957befc6db857",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=89943ff46996f8206c8957befc6db857",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -389538,7 +390019,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8c1287730433faa124ab12364d5d7990",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=8c1287730433faa124ab12364d5d7990",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390151,7 +390632,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a9a0161ba4554b65c12dc78ad1821de1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a9a0161ba4554b65c12dc78ad1821de1",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390235,7 +390716,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ad0e90c96bef5e9afb0432f8f10334fc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ad0e90c96bef5e9afb0432f8f10334fc",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390299,7 +390780,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/afc8aa5aac98d3c01d75b48934410420",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=afc8aa5aac98d3c01d75b48934410420",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390427,7 +390908,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b42676dc96ed56aa7023828daf672def",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b42676dc96ed56aa7023828daf672def",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390459,7 +390940,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5c0998b3e7fc95ceffaa2ddca71da26",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5c0998b3e7fc95ceffaa2ddca71da26",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390476,7 +390957,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5cc6229699a1ad2fe62613ae4a43747",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -390827,7 +391308,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c37b8e251ef659c3ce3cdb099f0d4ff2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c37b8e251ef659c3ce3cdb099f0d4ff2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -391040,7 +391521,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cc06d8f20471d509b1f777b837b152f5",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cc06d8f20471d509b1f777b837b152f5",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -391172,7 +391653,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cfbb078aebecc2da68d70b3c601ccc39",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cfbb078aebecc2da68d70b3c601ccc39",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -391300,7 +391781,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d44d4e23267943a48940bbbc5179a07d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d44d4e23267943a48940bbbc5179a07d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -391348,7 +391829,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d6632a09aca9b0c9fd8c9a5206cc8665",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -391494,7 +391975,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dd1bcb6f2c29c426783af691a186138a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dd1bcb6f2c29c426783af691a186138a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -392421,7 +392902,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0021aa48486b9ee981405a668b483606",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=0021aa48486b9ee981405a668b483606",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -392616,7 +393097,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/02c4f7795ce5318dad61b7baffee5345",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=02c4f7795ce5318dad61b7baffee5345",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -393121,6 +393602,19 @@
         "3c3f3e6e41de340826e887ab19c6b121"
       ],
       "sennet_id": "SNT692.BXRW.622"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/070594ae1de9240079f05a868a29e717",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=070594ae1de9240079f05a868a29e717",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT668.TRTQ.746"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/07184eef10e373f110a06e59cf05f56a",
@@ -393860,6 +394354,19 @@
       "sennet_id": "SNT692.NKPW.397"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0e31d087f750c2b98a80b0ca396a5784",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0e31d087f750c2b98a80b0ca396a5784",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT342.DMJF.956"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0e38b01533af5428ec451b86b20208ad",
       "@type": "Dataset",
       "label": "Registered 11/12/2025, SenNet Process, TMC - Columbia University",
@@ -394569,6 +395076,19 @@
       "sennet_id": "SNT529.NGLZ.688"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1426f00e934de0b8dc9125432a73a2d0",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1426f00e934de0b8dc9125432a73a2d0",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT497.BFCV.723"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/14294f935b650399a36baec1238ce740",
       "@type": "Dataset",
       "label": "Registered 12/4/2024, SenNet Process, TMC - Columbia University",
@@ -395094,7 +395614,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1933bc5cd0a59ede4d19cd09b0d336b4",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=1933bc5cd0a59ede4d19cd09b0d336b4",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -395344,6 +395864,19 @@
       "sennet_id": "SNT673.PWMC.758"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1a8d963e33b6feeb506c1349f1b9e93f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1a8d963e33b6feeb506c1349f1b9e93f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT464.WZVS.834"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/1aa28be984824772d2a37310f126ba98",
       "@type": "Dataset",
       "label": "Registered 12/10/2025, SenNet Process, TMC - Columbia University",
@@ -395394,6 +395927,19 @@
         "16655aa34cef160cc4a778dc9eaf51b9"
       ],
       "sennet_id": "SNT489.WKXT.667"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1b2981dabbed5895b436c23e291baeab",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1b2981dabbed5895b436c23e291baeab",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT486.HLRK.252"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1b2c84fc7cd420696e53e876c8b3bdde",
@@ -395553,6 +396099,19 @@
         "0f44b899f87f69f0f89b9c0d9659fe9c"
       ],
       "sennet_id": "SNT775.ZZNT.648"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/1c7ce63c8c24bac6ccaa45b813290004",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=1c7ce63c8c24bac6ccaa45b813290004",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT695.DFSG.928"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/1c90b19e46982bc8c355a8742f7b5988",
@@ -397026,7 +397585,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/29c03fa53a801dc5637d11c907f6b097",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=29c03fa53a801dc5637d11c907f6b097",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -397443,6 +398002,19 @@
       "sennet_id": "SNT398.XTWP.354"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2efff7416e8e196c780c728964cc7d32",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2efff7416e8e196c780c728964cc7d32",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT445.RWCK.877"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/2f2969defd775509587c780534514c99",
       "@type": "Dataset",
       "label": "Registered 7/20/2026, SenNet Process, TMC - UConn Health",
@@ -397636,6 +398208,19 @@
         "36f29e5f15b9235b43315c28951636ce"
       ],
       "sennet_id": "SNT259.BMKL.534"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/315315e46fdd9b6fdb9e8773bcedbc4b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=315315e46fdd9b6fdb9e8773bcedbc4b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT634.PGWM.423"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/31631fbd003211a6a3d0bc34ae631303",
@@ -398753,6 +399338,19 @@
       "sennet_id": "SNT776.QQGW.623"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3c15c4bbad6c2d964b34c42aeb220209",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3c15c4bbad6c2d964b34c42aeb220209",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT365.VJVZ.234"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/3c2cf99609557ec9d0176190805d9f06",
       "@type": "Dataset",
       "label": "Registered 6/12/2026, SenNet Process, TMC - Yale University - Fan",
@@ -398908,6 +399506,19 @@
         "048dd8e682b0d5a7b71d087a60e01aa0"
       ],
       "sennet_id": "SNT834.JVWX.622"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3d6afa812ecf10d98335d11ebc03a681",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3d6afa812ecf10d98335d11ebc03a681",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT297.RBZR.538"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3d9cb3a7d90812ed8bb7670c1604506b",
@@ -399276,6 +399887,19 @@
       "sennet_id": "SNT927.SXRP.663"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/40850d64f404a968ad2235a6493ed266",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=40850d64f404a968ad2235a6493ed266",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b02d73fd96d92f91ac263da2cb3f153"
+      ],
+      "sennet_id": "SNT467.MWCG.686"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/40bc3f13a98b3c8dba3655e7d5f6501a",
       "@type": "Dataset",
       "label": "Registered 6/12/2026, SenNet Process, TMC - Yale University - Fan",
@@ -399313,6 +399937,19 @@
         "bb49ffd05dc65342a6f467223a2b1793"
       ],
       "sennet_id": "SNT497.GHJR.567"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/410903630f257193ebd2fa491b10157e",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=410903630f257193ebd2fa491b10157e",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT297.ZRPC.637"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/41104ed0a70dc357b8362928af2421e5",
@@ -400008,7 +400645,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4537c902e2ecb33a739b7b4746432139",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4537c902e2ecb33a739b7b4746432139",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -400298,7 +400935,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/47b18285d076a011490a1a1f55be78f2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=47b18285d076a011490a1a1f55be78f2",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -400440,6 +401077,19 @@
         "b4c301969bb730e3e0062fbeb514cd11"
       ],
       "sennet_id": "SNT949.FFWN.438"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/491967fe75c2159987e8a2f9a726e823",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=491967fe75c2159987e8a2f9a726e823",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "6b4c1efaaf5c1cee5a5c53da3781c273"
+      ],
+      "sennet_id": "SNT723.FNKK.875"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/49339c1d897fee0928e7d3cf3e81ff31",
@@ -400704,6 +401354,19 @@
         "afb7b7da83425c7a82801e53b6f4534a"
       ],
       "sennet_id": "SNT252.QNZW.269"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4baa31a14700a8c1c9dfeed33a8c03f8",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4baa31a14700a8c1c9dfeed33a8c03f8",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT453.PHQW.258"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4baa5f4b6bd037f3b7f38e6202ebf784",
@@ -402042,6 +402705,19 @@
       "sennet_id": "SNT699.HDRF.264"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5743ef5c1339c3d48f38004dc620cd8a",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5743ef5c1339c3d48f38004dc620cd8a",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT595.CKDV.643"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/576d1130e9d5c8cfda2cf151a8b7f571",
       "@type": "Dataset",
       "label": "Registered 2/13/2025, SenNet Process, TMC - University of Pittsburgh",
@@ -402711,7 +403387,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5bd72d32629103b3c827544f97675830",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5bd72d32629103b3c827544f97675830",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -402908,6 +403584,19 @@
       "sennet_id": "SNT238.MJLX.284"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5d557803bf9773c6dedc0fef3dc17e45",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5d557803bf9773c6dedc0fef3dc17e45",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "927c75c20477638034b82f70bf090819"
+      ],
+      "sennet_id": "SNT277.LZGJ.397"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/5d81fc145fb0a13eae3bd7c7dbd88fb7",
       "@type": "Dataset",
       "label": "Registered 10/18/2024, SenNet Process, TMC - UConn Health",
@@ -403014,7 +403703,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5e315406939d24b5ffa14a279d1c2039",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5e315406939d24b5ffa14a279d1c2039",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -403384,6 +404073,19 @@
       "sennet_id": "SNT927.FSML.574"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6295eac3f0e15949f71e59b4aa77dadf",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6295eac3f0e15949f71e59b4aa77dadf",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT246.KWDB.983"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/62a9640975da3d3b5b2495d305cf2a46",
       "@type": "Dataset",
       "label": "Registered 6/25/2025, SenNet Process, TMC - UConn Health",
@@ -403687,6 +404389,19 @@
       "sennet_id": "SNT575.PMHQ.397"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/657b93a0d3d04919ee76b9178e5f3b0f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=657b93a0d3d04919ee76b9178e5f3b0f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT562.GXKW.672"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/65a8733f68358cf43e0f05e37abb88a5",
       "@type": "Dataset",
       "label": "Registered 1/2/2025, SenNet Process, TMC - Columbia University",
@@ -403911,6 +404626,19 @@
       "sennet_id": "SNT662.DFGZ.599"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/67047256bc2655e093af013a90997afe",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=67047256bc2655e093af013a90997afe",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT474.KPRL.952"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/6713b1ff05903b4edb83e696e368f071",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -403965,7 +404693,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6767e21b17d49f6dd73d7b0a63467146",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6767e21b17d49f6dd73d7b0a63467146",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -404199,7 +404927,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/69a1a5197f7fd2096b850d443c71e755",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=69a1a5197f7fd2096b850d443c71e755",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -404565,7 +405293,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6d9f55cad3255dcac44504c939e33045",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6d9f55cad3255dcac44504c939e33045",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -404692,6 +405420,19 @@
         "876465c8bc6cf38f6cdfb8a65ba74744"
       ],
       "sennet_id": "SNT242.PRTR.536"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6f928031947c5d0a8b4a5c00f855076b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6f928031947c5d0a8b4a5c00f855076b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e12b7c109cb0dcea22c96326edf6235b"
+      ],
+      "sennet_id": "SNT367.WHGJ.266"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6fa1cb1b34077cc9c11e600868368453",
@@ -404892,7 +405633,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/71112dce37d1374fdd73b713f96b2488",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Columbia University",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=71112dce37d1374fdd73b713f96b2488",
       "description": "Dataset Type: Visium (no probes)",
       "technology": "Visium (no probes)",
@@ -405743,7 +406484,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7a7fadd48b2643b9b0dcd7e2122dc815",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7a7fadd48b2643b9b0dcd7e2122dc815",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -406187,7 +406928,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7fc5414041f5f52ef5704849c6cadefa",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Columbia University",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7fc5414041f5f52ef5704849c6cadefa",
       "description": "Dataset Type: Visium (no probes)",
       "technology": "Visium (no probes)",
@@ -406618,6 +407359,19 @@
         "bb49ffd05dc65342a6f467223a2b1793"
       ],
       "sennet_id": "SNT499.ZXRV.452"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/83699377b74e4e8baa5e6115c00a0d51",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=83699377b74e4e8baa5e6115c00a0d51",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT649.VNHX.262"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8379cfbeaba801d6a654b03373b92a78",
@@ -407159,6 +407913,19 @@
       "sennet_id": "SNT929.VJCK.782"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/883a65d62ea8327329ab3028191e5d40",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=883a65d62ea8327329ab3028191e5d40",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b02d73fd96d92f91ac263da2cb3f153"
+      ],
+      "sennet_id": "SNT453.XVTL.627"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/883db5545e48507613c46bc04cf8afc6",
       "@type": "Dataset",
       "label": "Registered 5/27/2026, SenNet Process, TMC - UConn Health",
@@ -407277,9 +408044,22 @@
       "sennet_id": "SNT296.KJTV.974"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/88e8bb1dc88ce7bc0826e02026cf3d9c",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=88e8bb1dc88ce7bc0826e02026cf3d9c",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT964.PQDS.348"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/88e8daf60038c21bf2a097205a69759a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=88e8daf60038c21bf2a097205a69759a",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -407384,7 +408164,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8a0add2eb3259da7fc224475e56c0b63",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=8a0add2eb3259da7fc224475e56c0b63",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -408119,7 +408899,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/928e8a573e3d853dd52f26174023d650",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, Sergii Domanskyi, TMC - UConn Health",
+      "label": "Registered 9/8/2026, Sergii Domanskyi, TMC - UConn Health",
       "link": "https://data.sennetconsortium.org/dataset?uuid=928e8a573e3d853dd52f26174023d650",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -408331,7 +409111,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/93f6a5aaeb4fc1daa904e7f7224635d1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=93f6a5aaeb4fc1daa904e7f7224635d1",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -409129,6 +409909,19 @@
       "sennet_id": "SNT645.GFXF.795"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/9b2eb8c5e3302a7c6c5a9f535c427bee",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=9b2eb8c5e3302a7c6c5a9f535c427bee",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT595.WWWK.447"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/9b33dc7aa2118964cb5f1c4e98e0b56e",
       "@type": "Dataset",
       "label": "Registered 7/18/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -409576,7 +410369,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/9e4f2c5d8e174a96229bae19aca1a907",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=9e4f2c5d8e174a96229bae19aca1a907",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -409825,7 +410618,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a1416d731f9783e63d806e5100a4a5fc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a1416d731f9783e63d806e5100a4a5fc",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -410100,6 +410893,19 @@
       "sennet_id": "SNT723.THJD.464"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a3ba76067aaf6639f3e62244b9fac759",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a3ba76067aaf6639f3e62244b9fac759",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT794.FCFQ.938"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/a3bae0e6294f8ec2e756d589dd6cc92d",
       "@type": "Dataset",
       "label": "Registered 6/10/2026, Sergii Domanskyi, TMC - UConn Health",
@@ -410360,6 +411166,19 @@
         "47af4bb89e8d207fde0e10a9bfdb9196"
       ],
       "sennet_id": "SNT342.LJJG.548"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a647ae36204bd600ec5ed45f2ae3f4de",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a647ae36204bd600ec5ed45f2ae3f4de",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT682.JKDP.228"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a64c82de7a98f0b88d790d3844f79109",
@@ -410734,7 +411553,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a9ad1c1a1a799b7d726e5502d55777cc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a9ad1c1a1a799b7d726e5502d55777cc",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -411009,7 +411828,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/aba31cc0a750423d495b1090da8c2104",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=aba31cc0a750423d495b1090da8c2104",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -411293,6 +412112,19 @@
         "3dc4bd02a3e78c2ab6d4e2749880e37d"
       ],
       "sennet_id": "SNT586.GWVQ.588"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ad6d2619bd5ec405063f19124254479a",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ad6d2619bd5ec405063f19124254479a",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "a35e23a902bf2fcfbe13b4cef5a60f2e"
+      ],
+      "sennet_id": "SNT527.TNVC.337"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ad93f17fd14a9d75d979f03ea73c440c",
@@ -412035,6 +412867,19 @@
       "sennet_id": "SNT548.NPXH.263"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b32beabc896baaf07943b716a24b6fb8",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b32beabc896baaf07943b716a24b6fb8",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ff9608333917b6d096a19e95c9dfdf04"
+      ],
+      "sennet_id": "SNT389.VSNV.665"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b341c5634baff6caab1af6dcb30954c8",
       "@type": "Dataset",
       "label": "Registered 6/6/2025, SenNet Process, TMC - UConn Health",
@@ -412510,7 +413355,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b86581fb5ecf418f6f20a0cbdc2fe4ac",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b86581fb5ecf418f6f20a0cbdc2fe4ac",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -413152,7 +413997,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bf7c50f1fd2f8abccb2e6cc1eb553a7b",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=bf7c50f1fd2f8abccb2e6cc1eb553a7b",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -413205,7 +414050,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bfd679784db8d47e8cf52ee92f8ada69",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=bfd679784db8d47e8cf52ee92f8ada69",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -414122,7 +414967,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c6e73686ae1e8c06f96b4492df411bba",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c6e73686ae1e8c06f96b4492df411bba",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -414188,7 +415033,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c739bda9785c19d4860e3212c02e4b13",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c739bda9785c19d4860e3212c02e4b13",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -414909,6 +415754,19 @@
       "sennet_id": "SNT785.TTRD.954"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ce6cebbbfd6cc8b60efbe9841150c02b",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ce6cebbbfd6cc8b60efbe9841150c02b",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT229.JQSV.928"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ce73bf13de74eec277d9b08b8298f024",
       "@type": "Dataset",
       "label": "Registered 7/20/2026, SenNet Process, TMC - Yale University - Fan",
@@ -414937,7 +415795,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ce7d5f1a1c4d55f286279cd39fadc988",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ce7d5f1a1c4d55f286279cd39fadc988",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -415660,7 +416518,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d367b9546373b498a78e86fb54b00511",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d367b9546373b498a78e86fb54b00511",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -416026,6 +416884,19 @@
       "sennet_id": "SNT685.SXZP.434"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/d7b5b920b1965e82894ce0fe2a008e74",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=d7b5b920b1965e82894ce0fe2a008e74",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT242.KKSM.526"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/d7c9fcf44a1ef06aa0734c9477361713",
       "@type": "Dataset",
       "label": "Registered 12/18/2024, SenNet Process, TMC - UConn Health",
@@ -416339,6 +417210,19 @@
         "13ebbd4db909c391dcdf1b457a37e592"
       ],
       "sennet_id": "SNT396.HPHF.976"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/da7b513255cb8f58f9fd5c61b2824718",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=da7b513255cb8f58f9fd5c61b2824718",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "7d259507586fa5679e92417ede992e08"
+      ],
+      "sennet_id": "SNT453.DQMX.694"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/da9a35b0229a461f6f132a46bcf1c6e3",
@@ -416694,6 +417578,19 @@
       "sennet_id": "SNT956.TXKD.598"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ddd1204291617e867a05ce530732a40e",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ddd1204291617e867a05ce530732a40e",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "197c39482d405484d30e2302738a0dcf"
+      ],
+      "sennet_id": "SNT369.TZGH.379"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ddd74957caa5f6970f74a108b92c09f5",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -416762,7 +417659,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/de0b1c9923d9e84df76c1d4c0323d623",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=de0b1c9923d9e84df76c1d4c0323d623",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -417060,6 +417957,19 @@
         "3abe9883f31c3f44fb94c51c98b4e9d7"
       ],
       "sennet_id": "SNT557.TVWC.568"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e0f302298f987d9fd2124d05300f0c3f",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e0f302298f987d9fd2124d05300f0c3f",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0bbb8464233d08e45d4834b26bf1e088"
+      ],
+      "sennet_id": "SNT634.PXPC.246"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e0f5983f00d3b23c1c7f0ecaa51858f5",
@@ -417393,6 +418303,19 @@
       "sennet_id": "SNT986.JDMG.549"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e355e6395abbb8a74ed781f8ecc5fdd7",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e355e6395abbb8a74ed781f8ecc5fdd7",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2fdebd2a61157bffcb4b75636df6fc11"
+      ],
+      "sennet_id": "SNT325.RVFW.867"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e3a28e8243f7a8fa5e37619459ef73cd",
       "@type": "Dataset",
       "label": "Registered 11/6/2024, SenNet Process, TDA - Buck Institute",
@@ -417422,7 +418345,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e3c86e4240482523cccfbbe4443a4da7",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=e3c86e4240482523cccfbbe4443a4da7",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -418289,7 +419212,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ec339ab29cd0819d4c8d361676facfd1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ec339ab29cd0819d4c8d361676facfd1",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -419068,7 +419991,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f3d8bd2c570c71d27718577e39eaa882",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - Duke University",
+      "label": "Registered 9/6/2026, SenNet Process, TMC - Duke University",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f3d8bd2c570c71d27718577e39eaa882",
       "description": "Dataset Type: Xenium",
       "technology": "Xenium",
@@ -419131,6 +420054,19 @@
         "3c595cf3650fe277508049f7be5f8a72"
       ],
       "sennet_id": "SNT883.DQLK.423"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f469d0e0375da5d3ea465ac7a0764961",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f469d0e0375da5d3ea465ac7a0764961",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "927c75c20477638034b82f70bf090819"
+      ],
+      "sennet_id": "SNT427.QRVF.423"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f47afa160ed8dd70318c4ad1367facd1",
@@ -420616,6 +421552,19 @@
       "sennet_id": "SNT473.DWQV.328"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ff4962132c14ee5228fdddad08b32e63",
+      "@type": "Dataset",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ff4962132c14ee5228fdddad08b32e63",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1ad6a8156decf624f3a05ad6d85e0631"
+      ],
+      "sennet_id": "SNT923.GXVN.556"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ff6cbf650029540b0a803d6c3bf9c210",
       "@type": "Dataset",
       "label": "Registered 9/25/2024, SenNet Process, TMC - University of Pittsburgh",
@@ -420693,6 +421642,19 @@
         "2b2f480469b29073f3ee7c781e7c5b98"
       ],
       "sennet_id": "SNT858.PKNS.256"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ffdcc056a1dcd1850dfaae561f501e93",
+      "@type": "Dataset",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - Columbia University",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ffdcc056a1dcd1850dfaae561f501e93",
+      "description": "Dataset Type: Visium (no probes)",
+      "technology": "Visium (no probes)",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "be60d1e9070df097bde9df8d26cc3fd8"
+      ],
+      "sennet_id": "SNT624.VTVL.692"
     }
   ],
   "unregisteredDatasets": [
@@ -420972,7 +421934,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/10074ee6667927c652d69cda3bfa4a86",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=10074ee6667927c652d69cda3bfa4a86",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -421132,7 +422094,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/17a93dac620311d18fc49828c376d593",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=17a93dac620311d18fc49828c376d593",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -421407,7 +422369,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/228ffdd77a1076acdaf067a71359088d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=228ffdd77a1076acdaf067a71359088d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -421597,7 +422559,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/284d99bce45d3a1b846f25937943d76b",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=284d99bce45d3a1b846f25937943d76b",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -421822,7 +422784,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3380f9b5e2448714a280c0769ed9d96a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3380f9b5e2448714a280c0769ed9d96a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -421855,7 +422817,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/346e27ff14687d788e3af6f35eccebb0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=346e27ff14687d788e3af6f35eccebb0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422207,7 +423169,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4453b7b8bb3eda61961e69de7ac6bb55",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422433,7 +423395,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4c06e68a574326424d8fa6cfbd29b140",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4c06e68a574326424d8fa6cfbd29b140",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422560,7 +423522,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/51c67ed08e4b6bb8f975c8d925cef1a9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=51c67ed08e4b6bb8f975c8d925cef1a9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422594,7 +423556,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5747da53e95525116d4fcfdd11ff74a0",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5747da53e95525116d4fcfdd11ff74a0",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422675,7 +423637,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/58dca6e573b159ead651467ba115b7cf",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Pittsburgh",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Pittsburgh",
       "link": "https://data.sennetconsortium.org/dataset?uuid=58dca6e573b159ead651467ba115b7cf",
       "description": "Dataset Type: PhenoCycler",
       "technology": "PhenoCycler",
@@ -422929,7 +423891,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62a09b091e5c636f1062d3afeaeb4aa6",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62a09b091e5c636f1062d3afeaeb4aa6",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -422977,7 +423939,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6343913b935e9953334e5657fa052640",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6343913b935e9953334e5657fa052640",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423056,7 +424018,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6613d7cef0080bc2a0a88e630f2e2658",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=6613d7cef0080bc2a0a88e630f2e2658",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423073,7 +424035,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/669b1117fce274b07e3aa551506564b2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/9/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=669b1117fce274b07e3aa551506564b2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423221,7 +424183,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/723a6ab523670b3db40fe271648e40e9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=723a6ab523670b3db40fe271648e40e9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423237,7 +424199,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/72d963352aafaa1d8041648c87e69fb9",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=72d963352aafaa1d8041648c87e69fb9",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423269,7 +424231,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/744db4058a85ced80a31dc07726bde3d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=744db4058a85ced80a31dc07726bde3d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423286,7 +424248,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/74866821948b3a535d4f30f753a29b6c",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=74866821948b3a535d4f30f753a29b6c",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423513,7 +424475,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7e1c8cc2f8b587348e1c72edabdf9050",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7e1c8cc2f8b587348e1c72edabdf9050",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423690,7 +424652,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/850eb1396482990545409145c0675dfd",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=850eb1396482990545409145c0675dfd",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423818,7 +424780,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/89943ff46996f8206c8957befc6db857",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=89943ff46996f8206c8957befc6db857",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -423883,7 +424845,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8c1287730433faa124ab12364d5d7990",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=8c1287730433faa124ab12364d5d7990",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424496,7 +425458,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/a9a0161ba4554b65c12dc78ad1821de1",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=a9a0161ba4554b65c12dc78ad1821de1",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424580,7 +425542,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ad0e90c96bef5e9afb0432f8f10334fc",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ad0e90c96bef5e9afb0432f8f10334fc",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424644,7 +425606,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/afc8aa5aac98d3c01d75b48934410420",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=afc8aa5aac98d3c01d75b48934410420",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424772,7 +425734,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b42676dc96ed56aa7023828daf672def",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b42676dc96ed56aa7023828daf672def",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424804,7 +425766,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5c0998b3e7fc95ceffaa2ddca71da26",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5c0998b3e7fc95ceffaa2ddca71da26",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -424821,7 +425783,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=b5cc6229699a1ad2fe62613ae4a43747",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425172,7 +426134,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c37b8e251ef659c3ce3cdb099f0d4ff2",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=c37b8e251ef659c3ce3cdb099f0d4ff2",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425385,7 +426347,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cc06d8f20471d509b1f777b837b152f5",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cc06d8f20471d509b1f777b837b152f5",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425517,7 +426479,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cfbb078aebecc2da68d70b3c601ccc39",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=cfbb078aebecc2da68d70b3c601ccc39",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425645,7 +426607,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d44d4e23267943a48940bbbc5179a07d",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d44d4e23267943a48940bbbc5179a07d",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425693,7 +426655,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=d6632a09aca9b0c9fd8c9a5206cc8665",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
@@ -425839,7 +426801,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dd1bcb6f2c29c426783af691a186138a",
       "@type": "Dataset",
-      "label": "Registered 9/3/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dd1bcb6f2c29c426783af691a186138a",
       "description": "Dataset Type: RNAseq",
       "technology": "RNAseq",
