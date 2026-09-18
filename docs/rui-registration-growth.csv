@@ -38,6 +38,9 @@ HuBMAP Datasets,2026-09-04,Registered,6512
 HuBMAP Datasets,2026-09-11,Unregistered,5865
 HuBMAP Datasets,2026-09-11,Exempt,268
 HuBMAP Datasets,2026-09-11,Registered,6512
+HuBMAP Datasets,2026-09-18,Unregistered,5873
+HuBMAP Datasets,2026-09-18,Exempt,268
+HuBMAP Datasets,2026-09-18,Registered,6513
 HuBMAP Blocks,2026-05-18,Unregistered,2592
 HuBMAP Blocks,2026-05-18,Exempt,0
 HuBMAP Blocks,2026-05-18,Registered,2589
@@ -68,6 +71,9 @@ HuBMAP Blocks,2026-09-04,Registered,2763
 HuBMAP Blocks,2026-09-11,Unregistered,2408
 HuBMAP Blocks,2026-09-11,Exempt,0
 HuBMAP Blocks,2026-09-11,Registered,2763
+HuBMAP Blocks,2026-09-18,Unregistered,2772
+HuBMAP Blocks,2026-09-18,Exempt,0
+HuBMAP Blocks,2026-09-18,Registered,2767
 SenNet Datasets,2026-02-06,Unregistered,1082
 SenNet Datasets,2026-02-06,Exempt,2584
 SenNet Datasets,2026-02-06,Registered,2186
@@ -122,6 +128,9 @@ SenNet Datasets,2026-09-04,Registered,2155
 SenNet Datasets,2026-09-11,Unregistered,75
 SenNet Datasets,2026-09-11,Exempt,602
 SenNet Datasets,2026-09-11,Registered,2192
+SenNet Datasets,2026-09-18,Unregistered,75
+SenNet Datasets,2026-09-18,Exempt,602
+SenNet Datasets,2026-09-18,Registered,2193
 SenNet Blocks,2026-05-18,Unregistered,1090
 SenNet Blocks,2026-05-18,Exempt,3715
 SenNet Blocks,2026-05-18,Registered,2197
@@ -152,6 +161,9 @@ SenNet Blocks,2026-09-04,Registered,2456
 SenNet Blocks,2026-09-11,Unregistered,743
 SenNet Blocks,2026-09-11,Exempt,2879
 SenNet Blocks,2026-09-11,Registered,2456
+SenNet Blocks,2026-09-18,Unregistered,743
+SenNet Blocks,2026-09-18,Exempt,2879
+SenNet Blocks,2026-09-18,Registered,2456
 CTann,2026-04-02,Unregistered,25
 CTann,2026-04-02,Exempt,83
 CTann,2026-04-02,Registered,7
@@ -185,6 +197,9 @@ CTann,2026-09-04,Registered,47
 CTann,2026-09-11,Unregistered,10
 CTann,2026-09-11,Exempt,98
 CTann,2026-09-11,Registered,47
+CTann,2026-09-18,Unregistered,10
+CTann,2026-09-18,Exempt,98
+CTann,2026-09-18,Registered,47
 KPMP Healthy,2026-01-01,Unregistered,0
 KPMP Healthy,2026-01-01,Exempt,0
 KPMP Healthy,2026-01-01,Registered,1062
@@ -209,6 +224,9 @@ KPMP Healthy,2026-09-04,Registered,805
 KPMP Healthy,2026-09-11,Unregistered,0
 KPMP Healthy,2026-09-11,Exempt,0
 KPMP Healthy,2026-09-11,Registered,805
+KPMP Healthy,2026-09-18,Unregistered,0
+KPMP Healthy,2026-09-18,Exempt,0
+KPMP Healthy,2026-09-18,Registered,805
 KPMP Unhealthy,2026-01-01,Unregistered,0
 KPMP Unhealthy,2026-01-01,Exempt,0
 KPMP Unhealthy,2026-01-01,Registered,11510
@@ -230,6 +248,9 @@ KPMP Unhealthy,2026-09-04,Registered,12204
 KPMP Unhealthy,2026-09-11,Unregistered,0
 KPMP Unhealthy,2026-09-11,Exempt,0
 KPMP Unhealthy,2026-09-11,Registered,12204
+KPMP Unhealthy,2026-09-18,Unregistered,0
+KPMP Unhealthy,2026-09-18,Exempt,0
+KPMP Unhealthy,2026-09-18,Registered,12204
 CIFAR,2026-04-01,Unregistered,0
 CIFAR,2026-04-01,Exempt,0
 CIFAR,2026-04-01,Registered,110
@@ -257,6 +278,9 @@ CIFAR,2026-09-04,Registered,116
 CIFAR,2026-09-11,Unregistered,0
 CIFAR,2026-09-11,Exempt,0
 CIFAR,2026-09-11,Registered,116
+CIFAR,2026-09-18,Unregistered,0
+CIFAR,2026-09-18,Exempt,0
+CIFAR,2026-09-18,Registered,116
 OMAP,2026-02-06,Unregistered,5
 OMAP,2026-02-06,Exempt,27
 OMAP,2026-02-06,Registered,5
@@ -290,6 +314,9 @@ OMAP,2026-09-04,Registered,14
 OMAP,2026-09-11,Unregistered,6
 OMAP,2026-09-11,Exempt,18
 OMAP,2026-09-11,Registered,14
+OMAP,2026-09-18,Unregistered,6
+OMAP,2026-09-18,Exempt,18
+OMAP,2026-09-18,Registered,14
 MOSDAP,2026-05-01,Unregistered,200
 MOSDAP,2026-05-01,Exempt,0
 MOSDAP,2026-05-01,Registered,0
@@ -320,6 +347,9 @@ MOSDAP,2026-09-04,Registered,47
 MOSDAP,2026-09-11,Unregistered,153
 MOSDAP,2026-09-11,Exempt,0
 MOSDAP,2026-09-11,Registered,47
+MOSDAP,2026-09-18,Unregistered,153
+MOSDAP,2026-09-18,Exempt,0
+MOSDAP,2026-09-18,Registered,47
 SWAT,2026-02-06,Unregistered,100
 SWAT,2026-02-06,Exempt,38
 SWAT,2026-02-06,Registered,152
@@ -350,6 +380,9 @@ SWAT,2026-09-04,Registered,240
 SWAT,2026-09-11,Unregistered,0
 SWAT,2026-09-11,Exempt,49
 SWAT,2026-09-11,Registered,240
+SWAT,2026-09-18,Unregistered,0
+SWAT,2026-09-18,Exempt,49
+SWAT,2026-09-18,Registered,240
 CDE,2026-06-05,Unregistered,0
 CDE,2026-06-05,Exempt,211
 CDE,2026-06-05,Registered,218
@@ -371,6 +404,9 @@ CDE,2026-09-04,Registered,218
 CDE,2026-09-11,Unregistered,0
 CDE,2026-09-11,Exempt,211
 CDE,2026-09-11,Registered,218
+CDE,2026-09-18,Unregistered,0
+CDE,2026-09-18,Exempt,211
+CDE,2026-09-18,Registered,218
 GTEx,2026-08-14,Unregistered,0
 GTEx,2026-08-14,Exempt,0
 GTEx,2026-08-14,Registered,35
@@ -383,3 +419,6 @@ GTEx,2026-09-04,Registered,35
 GTEx,2026-09-11,Unregistered,0
 GTEx,2026-09-11,Exempt,0
 GTEx,2026-09-11,Registered,35
+GTEx,2026-09-18,Unregistered,0
+GTEx,2026-09-18,Exempt,0
+GTEx,2026-09-18,Registered,35
