@@ -3,7 +3,7 @@ import { BASE_FIELDS, GROUP_UUID_MAPPING } from '../common.js';
 import { doApiSearch } from '../search.js';
 const { get, set, toNumber } = lodash;
 
-const FIELDS = [...BASE_FIELDS, 'donor', 'source', 'rui_location', 'sample_category', 'has_rui_information'];
+const FIELDS = [...BASE_FIELDS, 'donor', 'donors', 'source', 'sources', 'rui_location', 'sample_category', 'has_rui_information'];
 
 const QUERY = {
   bool: {
@@ -184,7 +184,7 @@ function formatBlock(data) {
   const dateEntered = new Date(data.last_modified_timestamp).toLocaleDateString();
   const groupName = GROUP_UUID_MAPPING[data.group_uuid] || data.group_name;
   const creator = data.created_by_user_displayname;
-  const donor = formatDonor(data.donor ?? data.source, data.portal);
+  const donor = formatDonor(data.donors?.[0] ?? data.sources?.[0] ?? data.donor ?? data.source, data.portal);
   return {
     '@id': data.portal.idPrefix + data.uuid,
     '@type': 'Sample',

@@ -354258,6 +354258,19 @@
       "sennet_id": "SNT597.TZFT.494"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0a1a9c8dc935a84b6a1a01a8c03f508a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0a1a9c8dc935a84b6a1a01a8c03f508a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "494535b0cf6f9b9172fa107ec72d6fc6"
+      ],
+      "sennet_id": "SNT375.NXKC.237"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0a2176356f14fd59a0d169ad5a50724c",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -354438,6 +354451,19 @@
         "d062a03493a6d52b8d3661679914f329"
       ],
       "sennet_id": "SNT339.ZKJK.357"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0c10cc56c7e0cc0945dc8f7566a441a8",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0c10cc56c7e0cc0945dc8f7566a441a8",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9fb9b6a196d1c5a9963b9787d0aa0cff"
+      ],
+      "sennet_id": "SNT238.BJDL.644"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0c1b9e4bba012efc6bf370c95b93ba67",
@@ -356762,6 +356788,19 @@
       "sennet_id": "SNT977.BVTW.293"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2016242984385ad3c7126deb7e004ee3",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2016242984385ad3c7126deb7e004ee3",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9a0db5ddc9974edf2c7b2f0a8f4289b5"
+      ],
+      "sennet_id": "SNT345.KDNW.743"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/202db4b4a8f2b268bdb2c20544675bfa",
       "@type": "Dataset",
       "label": "Registered 12/10/2025, SenNet Process, TMC - Columbia University",
@@ -356799,6 +356838,19 @@
         "15f84d9d59df39498e4fa60cadbfaa9d"
       ],
       "sennet_id": "SNT246.PJQH.256"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/20e3bf2c5bd389ae6ebd2fcd719269c4",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=20e3bf2c5bd389ae6ebd2fcd719269c4",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "72719d2be7afb509e9754ae491050155"
+      ],
+      "sennet_id": "SNT688.PBRZ.957"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/21336624d176153956907d43984f9763",
@@ -356917,6 +356969,19 @@
         "571a6ab55320d9c9a168998dff6f5888"
       ],
       "sennet_id": "SNT395.QVXS.675"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/21bf4a9bd2cd5fdd8f3345a94c338b64",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=21bf4a9bd2cd5fdd8f3345a94c338b64",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "f029b9077012a9dffb060f550f58527b"
+      ],
+      "sennet_id": "SNT842.QRXK.793"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/21c3eb2b27d8debc32a26dc2e4546385",
@@ -358088,6 +358153,19 @@
         "3feb0abbf029f2055e1ad15827aa7734"
       ],
       "sennet_id": "SNT534.BRLV.995"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2b77ebde74bf36d97a1843473471cfec",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2b77ebde74bf36d97a1843473471cfec",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "7999753afe0e993d0281fa56c26c4b4d"
+      ],
+      "sennet_id": "SNT396.QZHX.443"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2b8af2da789958980805ea8716b15679",
@@ -359595,6 +359673,19 @@
       "sennet_id": "SNT656.QFQG.226"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3b2bbcee79b69449181690504c8a5b53",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3b2bbcee79b69449181690504c8a5b53",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9c8ae72df80c36779f312855756f868f"
+      ],
+      "sennet_id": "SNT646.NNFS.597"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/3b491d733246e1ea29d772aea6c2ce27",
       "@type": "Dataset",
       "label": "Registered 4/17/2024, SenNet Process, TMC - Buck Institute",
@@ -360666,6 +360757,19 @@
       "sennet_id": "SNT596.SHPB.547"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4378bc7e3633e696bc26e49830cf959a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4378bc7e3633e696bc26e49830cf959a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "8ba7b4918ff237e41c75fc1f0713a994"
+      ],
+      "sennet_id": "SNT793.XGGQ.486"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/438154eae4bceec977e7bf0e52b5272c",
       "@type": "Dataset",
       "label": "Registered 5/19/2026, SenNet Process, TMC - Duke University",
@@ -361111,6 +361215,19 @@
       "sennet_id": "SNT774.VMHP.883"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/46022433d0779e3a6381c851ef7e7fa6",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=46022433d0779e3a6381c851ef7e7fa6",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d7e58485720842982a6aa06b2985b54b"
+      ],
+      "sennet_id": "SNT758.LSDS.225"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/46151f5663126e5e0f98c04842be8931",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -361400,6 +361517,19 @@
         "8fd8526d2f46387b72bc3a4f263c42c2"
       ],
       "sennet_id": "SNT937.RHPC.693"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/48a816fec4ca711b5e8422b7a9169236",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=48a816fec4ca711b5e8422b7a9169236",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0dc3e4beaba4675f8947c18c2803a5c0"
+      ],
+      "sennet_id": "SNT365.CNQH.556"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/48b89e9b8e7ba639c8bd7aedd1685ded",
@@ -363210,6 +363340,19 @@
         "2524bd4dc58bc5f4a6688f6f1ab728c5"
       ],
       "sennet_id": "SNT626.VFTX.645"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/580e5d9e092c32e6065545b84f5023ac",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=580e5d9e092c32e6065545b84f5023ac",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0457971a045514fa14992ee2a740b2c9"
+      ],
+      "sennet_id": "SNT733.FBFL.623"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/581ad3683837f2431f74190246bc2244",
@@ -365027,6 +365170,19 @@
       "sennet_id": "SNT455.LCZL.326"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/67470f1d5f35dd41085153745d244836",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=67470f1d5f35dd41085153745d244836",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "18626a3f1a85aff8f27782e4412a2581"
+      ],
+      "sennet_id": "SNT646.KWJV.399"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/67522b8379d743380f869e4a416f1072",
       "@type": "Dataset",
       "label": "Registered 6/6/2025, SenNet Process, TMC - UConn Health",
@@ -365429,6 +365585,19 @@
         "0336236500b4e730d41a5d8448dfc58a"
       ],
       "sennet_id": "SNT337.RDSC.286"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6a99bff72539db89186b3267e7babc1d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6a99bff72539db89186b3267e7babc1d",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "765d588da82a297aa758ba4ec471fede"
+      ],
+      "sennet_id": "SNT536.RHCL.695"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6a9cbd4cfc9eb3ca595ad6008b7f202a",
@@ -366630,6 +366799,19 @@
         "1218dfe39f53a129dc2ff3613da9c724"
       ],
       "sennet_id": "SNT249.ZSZD.932"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/77d6e0f9d0b138d4716d485c3c50dd80",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=77d6e0f9d0b138d4716d485c3c50dd80",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9c41a52a9d98f566762da1e90b03d344"
+      ],
+      "sennet_id": "SNT329.VNMN.442"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/77dbc949ecf2ed54d73dcd5e50042eed",
@@ -369916,6 +370098,19 @@
         "f09f8ab35522f42e5506ae04593aec47"
       ],
       "sennet_id": "SNT393.GWVP.327"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/97f729a57e2298a2d8008ce0c4e5da2b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=97f729a57e2298a2d8008ce0c4e5da2b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d9ce640e7f15003b8962eabac400f234"
+      ],
+      "sennet_id": "SNT253.VSFG.923"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/97fb95b46dfbab26e8278f8caccf1b88",
@@ -373216,6 +373411,19 @@
       "sennet_id": "SNT795.FVGL.277"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b2efdc7f1a89bfd3c1a66da3b77ca0ae",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b2efdc7f1a89bfd3c1a66da3b77ca0ae",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0574793ca313c582768aa5c1523266dc"
+      ],
+      "sennet_id": "SNT447.DFGP.959"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b30d0d6d6861c0291234ce40481a6978",
       "@type": "Dataset",
       "label": "Registered 6/8/2026, SenNet Process, TMC - UConn Health",
@@ -373253,6 +373461,19 @@
         "de2cfe7984f6489fe38b2e3f526dc9dd"
       ],
       "sennet_id": "SNT354.RXSZ.786"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b365cb1374a4a9ab7550e1ecd8e7febb",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b365cb1374a4a9ab7550e1ecd8e7febb",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d804f917c238881726df294080d7646b"
+      ],
+      "sennet_id": "SNT853.PFFC.763"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b3813ce55faa36202e3bc89511b6af27",
@@ -373910,6 +374131,19 @@
         "651498acc3f129f36752887aefdc29e7"
       ],
       "sennet_id": "SNT463.QCCT.554"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/bab66e78d18656e81b19bf8df305369a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=bab66e78d18656e81b19bf8df305369a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0c0a818a07ae8de190dd6140682f6121"
+      ],
+      "sennet_id": "SNT992.GJMG.298"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bafe26f59a3f062ed80f8f20c124f554",
@@ -374619,6 +374853,19 @@
         "7c2a56e4600ae1021830bdff9c979d7c"
       ],
       "sennet_id": "SNT557.TWWB.685"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c12e23a9d7405d7ee0c1e209fb77ca1b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c12e23a9d7405d7ee0c1e209fb77ca1b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "e9bfa9c3fd0ab2d3412702f765482bda"
+      ],
+      "sennet_id": "SNT629.XKWZ.392"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c158320fcfc39359411f2b505a97cce1",
@@ -375719,6 +375966,19 @@
         "0e7d937b063ed0a553cf98a4db0cda6d"
       ],
       "sennet_id": "SNT844.FTBK.253"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/cb32164fed04b2ce0e5cfb0cee30f55b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=cb32164fed04b2ce0e5cfb0cee30f55b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "04ce6b611927513083d2904912842572"
+      ],
+      "sennet_id": "SNT753.LXXG.676"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cb382a421826265244e153e5b8ddd366",
@@ -377940,6 +378200,19 @@
       "sennet_id": "SNT685.MLMC.326"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/dd70136b34cb8a86269afd9dc94f99cb",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=dd70136b34cb8a86269afd9dc94f99cb",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d768998e8bf17f45a4a26759fd64c1c4"
+      ],
+      "sennet_id": "SNT854.KSGP.828"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ddc5ef97daefa5ef27539c27310d15ab",
       "@type": "Dataset",
       "label": "Registered 6/3/2026, SenNet Process, TMC - Duke University",
@@ -378254,6 +378527,19 @@
         "5f6e1ecbd79d75f365aebbe0612bbe32"
       ],
       "sennet_id": "SNT574.MMQC.683"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e02c5d24ca74059d2c363fc74189ce4b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e02c5d24ca74059d2c363fc74189ce4b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "562bbe5541046c3c43f3d1372930729c"
+      ],
+      "sennet_id": "SNT364.GFBD.874"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e02f78a1da55d60691d23fe918e4c5b3",
@@ -378968,6 +379254,19 @@
       "sennet_id": "SNT569.MWGQ.454"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e62aca1d008a51dd85570ae41a0d02b7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e62aca1d008a51dd85570ae41a0d02b7",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "2073df4421cdcc0beba9c48de62c8594"
+      ],
+      "sennet_id": "SNT888.MXVP.548"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e63347bdcce3e79b59f09113fec3cb44",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -379165,6 +379464,19 @@
       "sennet_id": "SNT395.VWGD.986"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e80b5e6116a9b3ecab3086bac410f8bd",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e80b5e6116a9b3ecab3086bac410f8bd",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d2029b1e037ef3918c75cec5bc95d299"
+      ],
+      "sennet_id": "SNT479.VQQG.382"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e814a8b12607a7fce04094454d96825d",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -379176,6 +379488,19 @@
         "f7c33127cf5763ca9cdc4c2b68c6cec2"
       ],
       "sennet_id": "SNT633.VTQD.737"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e81d7c61e8a92a7bd98efdf13d742755",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e81d7c61e8a92a7bd98efdf13d742755",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "bda05f01ff42d014c6be73d7faaeed28"
+      ],
+      "sennet_id": "SNT445.BPTV.373"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e832ff66d7a443b3ba072e657240d5d5",
@@ -381270,6 +381595,19 @@
       "sennet_id": "SNT574.LQCM.694"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f97f4045a5e9b38508c4d23778448c6a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f97f4045a5e9b38508c4d23778448c6a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "3bf4121b79d7fa8a1bd0c9251dd80660"
+      ],
+      "sennet_id": "SNT829.VFMH.524"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/f9884e100f0ed58ae0fae9b978ad7f37",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -381427,6 +381765,19 @@
         "80b6224f006b3dd360d44381247f45de"
       ],
       "sennet_id": "SNT626.DNSL.944"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/fb53311759aa44b97fbaabab5038710b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=fb53311759aa44b97fbaabab5038710b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "2b05454c7af1d0a08e1660fbb3524c1c"
+      ],
+      "sennet_id": "SNT544.FLRD.254"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/fb6e833fb4b26af3a3000429f1f6da55",
@@ -382052,7 +382403,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/02b966ee77fb927e4568aade9dde8552",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=02b966ee77fb927e4568aade9dde8552",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -382084,7 +382435,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/03b6c95d61e99b48bd82e94788f624e4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=03b6c95d61e99b48bd82e94788f624e4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -382176,6 +382527,22 @@
       "sennet_id": "SNT469.FFMB.769"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/08e4e54c14c72be08718648d4cc2c4a5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=08e4e54c14c72be08718648d4cc2c4a5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fdfcd9aa3c77d9a9cecaa4982e0380a7",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT472.CRDL.238"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0a39143ad938fe220fec9ce9389b1bcb",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -382206,6 +382573,37 @@
         "110fa93615470e0e8fbca4e60ea735df"
       ],
       "sennet_id": "SNT943.QTNB.243"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fd69d19f3c1541ca17d5632b9c5786f1",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT862.TSFV.947"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0e1c9cc68e1f11c35dae10b6fd049978",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0e1c9cc68e1f11c35dae10b6fd049978",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "3c30bd78d2dd9e6df4e11510ecaea0af",
+        "3eb08a1e50b59102ab21bee8cc5f4a70",
+        "77b6ece611fbdae1d6708e23c021bf62"
+      ],
+      "sennet_id": "SNT852.CTGW.283"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0e6e48108d13d1f3fd0dd6f25bcb8aaf",
@@ -382254,6 +382652,22 @@
         "db487f035a0aae2c1aeb2589cbf18650"
       ],
       "sennet_id": "SNT279.TFJB.875"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/10271b1953eb8a0005a76f7bef82aaf6",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=10271b1953eb8a0005a76f7bef82aaf6",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d15ff669590e99ca67b8cb1a87306ce9",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT433.KRBJ.549"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/115af21b6dc4ed8f364ce07fcab470d6",
@@ -382658,7 +383072,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2498adf15c6cbe6f75555f0e523a24d1",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2498adf15c6cbe6f75555f0e523a24d1",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -382816,7 +383230,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/29de9fb53e975bbf1e67ee7f68721221",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=29de9fb53e975bbf1e67ee7f68721221",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -382912,7 +383326,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383073,7 +383487,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/35aac7a6dc766c7c253b07ed95ab8b3b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=35aac7a6dc766c7c253b07ed95ab8b3b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383153,7 +383567,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3848ea99dd6a17a5eed2cc5a1c66e35e",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3848ea99dd6a17a5eed2cc5a1c66e35e",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383342,6 +383756,22 @@
       "sennet_id": "SNT362.GNQR.576"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/43970a49d652ca82a69ce5ce60deb685",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=43970a49d652ca82a69ce5ce60deb685",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d2e1d50b0de3b1f4b5fca721bffbd87e",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT862.WTNQ.842"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -383361,7 +383791,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/454b25527f0bf5944ec5534f5caae999",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=454b25527f0bf5944ec5534f5caae999",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383441,7 +383871,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/489e219dc8c9996c349e2b3b7c17f90c",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=489e219dc8c9996c349e2b3b7c17f90c",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383489,7 +383919,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/48fbfc35ec8b885b9e4c16d54c9a2acc",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=48fbfc35ec8b885b9e4c16d54c9a2acc",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383597,6 +384027,22 @@
       "sennet_id": "SNT837.LMLP.736"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c44d3e843e0d746cdd32a4ef0a3d264f",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT282.JLMN.682"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4dbcccfb5421de14818ad8e6a42ffca9",
       "@type": "Dataset",
       "label": "Registered 3/11/2026, SenNet Process, TDA - Columbia University",
@@ -383630,7 +384076,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4fe4911305e8a781dbb60f5ff57df049",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4fe4911305e8a781dbb60f5ff57df049",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383741,6 +384187,22 @@
       "sennet_id": "SNT379.DTSM.939"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5a80521bd2d3e085c6b6205e75f4e60d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5a80521bd2d3e085c6b6205e75f4e60d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c9ea93103e7080045b7af46040a51caf",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT397.XSCB.333"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/5b06d90c1a6a2f1e4fa0787f4a492e8b",
       "@type": "Dataset",
       "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -383838,7 +384300,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5ddeeddade263d8465bb6f940d546d32",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5ddeeddade263d8465bb6f940d546d32",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383950,7 +384412,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383981,9 +384443,25 @@
       "sennet_id": "SNT999.QKTD.578"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/634c7edcb066ab61d53c4ae2be4c625d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=634c7edcb066ab61d53c4ae2be4c625d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "222599ff62a889f6f125ae9bbd216747",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT887.NWWV.839"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/63c0a018e276fcc046317d48d8edf8db",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=63c0a018e276fcc046317d48d8edf8db",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -383995,6 +384473,22 @@
         "a726e6b3607e280bb561db3aeb149af3"
       ],
       "sennet_id": "SNT563.SGTW.344"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/644e9f1caa2ce1dddbb5b5662e877b5b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=644e9f1caa2ce1dddbb5b5662e877b5b",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fcfa6a0a6caaca5247ac1633da875060",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT879.BFPN.237"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/64b61f0e4b7b0c82220f2e5939b6967b",
@@ -384126,6 +384620,22 @@
       "sennet_id": "SNT442.SMCV.866"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6fd8efba22742741984d455df2cd8f68",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6fd8efba22742741984d455df2cd8f68",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "366daa81a32347c7f63b89c5fe0a9dd5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT978.ZSGL.974"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/7026340ade0af977c3ce23a90da514d0",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -384224,6 +384734,22 @@
       "sennet_id": "SNT799.HQGK.857"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/74d1e95a42a59162e6eab9a5b18dd7b9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=74d1e95a42a59162e6eab9a5b18dd7b9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8f196879385fe5d15544584289590b98",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT957.PMTL.483"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/74f5d05346b7873824b24311de77a325",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -384258,7 +384784,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/78b4d6da22b7fd574d4de047c7d0e798",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=78b4d6da22b7fd574d4de047c7d0e798",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -384369,7 +384895,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7c890797e1b5c7c14d2b17b228762937",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7c890797e1b5c7c14d2b17b228762937",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -384414,6 +384940,22 @@
         "d99d7cfd7c34b68d50f5f9d7e5f12075"
       ],
       "sennet_id": "SNT467.XNNN.996"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/7e97e987662db23d5960f48bb459fc9a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=7e97e987662db23d5960f48bb459fc9a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "85e960bf98c9d58a1abc23266588d12e",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT292.HDDZ.599"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/8120ec4936009379f2a3a73d45164e3a",
@@ -384512,7 +385054,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/848df49f0feb658d84313e4fe33bfaee",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=848df49f0feb658d84313e4fe33bfaee",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -384735,6 +385277,22 @@
       "sennet_id": "SNT598.KLNB.477"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/96e881394a5f2159f9b8607c8083def1",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=96e881394a5f2159f9b8607c8083def1",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "b1d6b6a206d464f7e5a64e7083683a95",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT429.QNKK.235"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/98f88358f28af965f2fbba79f3625763",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -384925,6 +385483,38 @@
       "sennet_id": "SNT265.XJBP.558"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a4404c0783032f79ee6938011d104bfe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a4404c0783032f79ee6938011d104bfe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "624eac428852d0e02e902fc8dfe00191",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT937.LDHL.627"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a55ffa959bc6e0e0530ff070cb314a7a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a55ffa959bc6e0e0530ff070cb314a7a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "4a01f334dfb9e916bd8e182af4564fad",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT255.DGXN.627"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/a57f108e6644f2135a629c706cce2880",
       "@type": "Dataset",
       "label": "Registered 3/6/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -385103,6 +385693,22 @@
       "sennet_id": "SNT934.GXRK.642"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/aaf0433c065bc79122b0bc10cf56afd7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=aaf0433c065bc79122b0bc10cf56afd7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "39caacfacac810ff6b532da62dc51913",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT633.TDKC.388"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/aaf861df205ce0fcdc2c1b001bf16445",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -385117,6 +385723,22 @@
         "f71944e064f90248829660d1e2fd146e"
       ],
       "sennet_id": "SNT866.DDTV.549"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "125d72f23e1300a0c2a71c5624a324e0",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT359.NHFV.527"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ac98023f3186056718a22f39fd39091f",
@@ -385150,6 +385772,22 @@
         "db487f035a0aae2c1aeb2589cbf18650"
       ],
       "sennet_id": "SNT624.CHXP.494"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/adb14d72084cb48be08c70214a3ce8e7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=adb14d72084cb48be08c70214a3ce8e7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "533b8297b85b1a4e643f0ba7f52963a8",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT479.ZQJC.745"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ae047dd2d1aa3614e2375892b2332741",
@@ -385313,6 +385951,22 @@
       "sennet_id": "SNT427.HJMX.989"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b5c53e7ced70e2442997c1601bb5e67a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b5c53e7ced70e2442997c1601bb5e67a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5c208fa678fbdc2c4d631377ef7e869a",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT792.LBRT.495"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -385408,6 +386062,22 @@
         "779877546d14cdf702014d9bc734274f"
       ],
       "sennet_id": "SNT388.CGRJ.979"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b93c06611a0e7dc7aea6ee45ec67effe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b93c06611a0e7dc7aea6ee45ec67effe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "828facf2c3743dfd4dede20df0641779",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT775.XDFR.967"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b9e389951d2b1e5f4a7b93f765762985",
@@ -385521,6 +386191,22 @@
       "sennet_id": "SNT588.HFTQ.737"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/bf92feb4a06f895236b2816f205aa53a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=bf92feb4a06f895236b2816f205aa53a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "75612c658a3548efb93e789d5e5bfbc5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT356.QQMG.282"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/bfec803586d41d79246074d7adb1c05d",
       "@type": "Dataset",
       "label": "Registered 3/10/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -385551,6 +386237,22 @@
         "17c8a0ce4edc355543a95de2df6bb575"
       ],
       "sennet_id": "SNT445.PQVM.734"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c22159700e113b219ee83ff4bab77180",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c22159700e113b219ee83ff4bab77180",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "17d0e34a27754d40391b71d8e14cb960",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT455.WXNT.554"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c2a835995f71ba07a3345f14b37de6c5",
@@ -385600,6 +386302,22 @@
         "47ae03b00fc94c1997083f863ac61668"
       ],
       "sennet_id": "SNT326.BKDX.533"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8143ae3eda0aec6d94776df73cb93ac0",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT349.FJDW.627"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c67852242a3984991ce996ea39374b93",
@@ -385700,7 +386418,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ca6d2ede4639d8c773150f4ac2a95b75",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ca6d2ede4639d8c773150f4ac2a95b75",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -385985,6 +386703,22 @@
       "sennet_id": "SNT478.PDHW.589"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/d5deca72c99b8b7351c0cb990e8da07c",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=d5deca72c99b8b7351c0cb990e8da07c",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8c46ace34712b49e8aafa293bd83ba8d",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT626.JNBG.273"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -386180,7 +386914,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dff0ccd20f3ff38c9e6983a0aa2806f9",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dff0ccd20f3ff38c9e6983a0aa2806f9",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386384,7 +387118,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ebe923b2fd610dc1b4c634e3c216e51f",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ebe923b2fd610dc1b4c634e3c216e51f",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386463,7 +387197,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ee6811ac7c6e2c96bd91032347ba8fa7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ee6811ac7c6e2c96bd91032347ba8fa7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386555,6 +387289,22 @@
         "645e061734f98741967970f088b699ba"
       ],
       "sennet_id": "SNT645.PDVF.536"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f282b02f4df6fc3b59a1d2018a7220c0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f282b02f4df6fc3b59a1d2018a7220c0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5511e04f4d84ba42ba92a4b37a8cf5b5",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT773.DSCX.355"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f526398276bb1e6b7ae5b950cd2d88ea",
@@ -386654,7 +387404,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7bb8292148c87a781a8a09e7be40659",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7bb8292148c87a781a8a09e7be40659",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386670,7 +387420,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7c95d086c355144ed3613bcde1bf0b7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7c95d086c355144ed3613bcde1bf0b7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386798,7 +387548,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/fb9db73f28c4e69268ac4d756013c728",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=fb9db73f28c4e69268ac4d756013c728",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386880,7 +387630,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/02b966ee77fb927e4568aade9dde8552",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=02b966ee77fb927e4568aade9dde8552",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -386912,7 +387662,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/03b6c95d61e99b48bd82e94788f624e4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=03b6c95d61e99b48bd82e94788f624e4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -387004,6 +387754,22 @@
       "sennet_id": "SNT469.FFMB.769"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/08e4e54c14c72be08718648d4cc2c4a5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=08e4e54c14c72be08718648d4cc2c4a5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fdfcd9aa3c77d9a9cecaa4982e0380a7",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT472.CRDL.238"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0a39143ad938fe220fec9ce9389b1bcb",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -387054,6 +387820,22 @@
       "sennet_id": "SNT224.THZX.826"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fd69d19f3c1541ca17d5632b9c5786f1",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT862.TSFV.947"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0cf65295731637794c0bff9c4ef551ba",
       "@type": "Dataset",
       "label": "Registered 8/17/2026, SenNet Process, TMC - University of Pittsburgh",
@@ -387068,6 +387850,21 @@
         "5fe935a4e8bc051ac96ee3a94161b4b2"
       ],
       "sennet_id": "SNT443.HQNJ.986"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0e1c9cc68e1f11c35dae10b6fd049978",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0e1c9cc68e1f11c35dae10b6fd049978",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "3c30bd78d2dd9e6df4e11510ecaea0af",
+        "3eb08a1e50b59102ab21bee8cc5f4a70",
+        "77b6ece611fbdae1d6708e23c021bf62"
+      ],
+      "sennet_id": "SNT852.CTGW.283"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0e6e48108d13d1f3fd0dd6f25bcb8aaf",
@@ -387134,6 +387931,22 @@
         "db487f035a0aae2c1aeb2589cbf18650"
       ],
       "sennet_id": "SNT279.TFJB.875"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/10271b1953eb8a0005a76f7bef82aaf6",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=10271b1953eb8a0005a76f7bef82aaf6",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d15ff669590e99ca67b8cb1a87306ce9",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT433.KRBJ.549"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/10b20d6f5b414c40eeb189f58a47e815",
@@ -387619,7 +388432,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2498adf15c6cbe6f75555f0e523a24d1",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2498adf15c6cbe6f75555f0e523a24d1",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -387794,7 +388607,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/29de9fb53e975bbf1e67ee7f68721221",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=29de9fb53e975bbf1e67ee7f68721221",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -387908,7 +388721,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388069,7 +388882,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/35aac7a6dc766c7c253b07ed95ab8b3b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=35aac7a6dc766c7c253b07ed95ab8b3b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388097,6 +388910,23 @@
         "a726e6b3607e280bb561db3aeb149af3"
       ],
       "sennet_id": "SNT659.LNHR.839"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3624579c76950e80c6814e38db307c4c",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Pittsburgh",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3624579c76950e80c6814e38db307c4c",
+      "description": "Dataset Type: Visium HD",
+      "technology": "Visium HD",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8f3e64104c01626e00bb61f69d980bd2",
+        "f3cb6a75efd402258de9bd9efa3768a3",
+        "1dc702181ed2175d4ab9c7c6ce0ebd53",
+        "d1ba4ec1538dd97af235bd5dd5706572",
+        "f6db852bb1107badfb10b5ef3f442d07"
+      ],
+      "sennet_id": "SNT394.QMKM.792"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/379ac246e9be31e03a8ade23b537eeca",
@@ -388149,7 +388979,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3848ea99dd6a17a5eed2cc5a1c66e35e",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3848ea99dd6a17a5eed2cc5a1c66e35e",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388354,6 +389184,22 @@
       "sennet_id": "SNT362.GNQR.576"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/43970a49d652ca82a69ce5ce60deb685",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=43970a49d652ca82a69ce5ce60deb685",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d2e1d50b0de3b1f4b5fca721bffbd87e",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT862.WTNQ.842"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -388373,7 +389219,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/454b25527f0bf5944ec5534f5caae999",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=454b25527f0bf5944ec5534f5caae999",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388471,7 +389317,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/489e219dc8c9996c349e2b3b7c17f90c",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=489e219dc8c9996c349e2b3b7c17f90c",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388519,7 +389365,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/48fbfc35ec8b885b9e4c16d54c9a2acc",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=48fbfc35ec8b885b9e4c16d54c9a2acc",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388645,6 +389491,22 @@
       "sennet_id": "SNT837.LMLP.736"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c44d3e843e0d746cdd32a4ef0a3d264f",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT282.JLMN.682"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4dbcccfb5421de14818ad8e6a42ffca9",
       "@type": "Dataset",
       "label": "Registered 3/11/2026, SenNet Process, TDA - Columbia University",
@@ -388678,7 +389540,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4fe4911305e8a781dbb60f5ff57df049",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4fe4911305e8a781dbb60f5ff57df049",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -388839,6 +389701,22 @@
       "sennet_id": "SNT986.SZKL.244"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5a80521bd2d3e085c6b6205e75f4e60d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5a80521bd2d3e085c6b6205e75f4e60d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c9ea93103e7080045b7af46040a51caf",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT397.XSCB.333"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/5b06d90c1a6a2f1e4fa0787f4a492e8b",
       "@type": "Dataset",
       "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -388936,7 +389814,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5ddeeddade263d8465bb6f940d546d32",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5ddeeddade263d8465bb6f940d546d32",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -389110,7 +389988,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -389141,9 +390019,25 @@
       "sennet_id": "SNT999.QKTD.578"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/634c7edcb066ab61d53c4ae2be4c625d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=634c7edcb066ab61d53c4ae2be4c625d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "222599ff62a889f6f125ae9bbd216747",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT887.NWWV.839"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/63c0a018e276fcc046317d48d8edf8db",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=63c0a018e276fcc046317d48d8edf8db",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -389155,6 +390049,22 @@
         "a726e6b3607e280bb561db3aeb149af3"
       ],
       "sennet_id": "SNT563.SGTW.344"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/644e9f1caa2ce1dddbb5b5662e877b5b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=644e9f1caa2ce1dddbb5b5662e877b5b",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fcfa6a0a6caaca5247ac1633da875060",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT879.BFPN.237"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/64b61f0e4b7b0c82220f2e5939b6967b",
@@ -389352,6 +390262,22 @@
       "sennet_id": "SNT442.SMCV.866"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6fd8efba22742741984d455df2cd8f68",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6fd8efba22742741984d455df2cd8f68",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "366daa81a32347c7f63b89c5fe0a9dd5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT978.ZSGL.974"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/7026340ade0af977c3ce23a90da514d0",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -389450,6 +390376,22 @@
       "sennet_id": "SNT799.HQGK.857"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/74d1e95a42a59162e6eab9a5b18dd7b9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=74d1e95a42a59162e6eab9a5b18dd7b9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8f196879385fe5d15544584289590b98",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT957.PMTL.483"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/74f5d05346b7873824b24311de77a325",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -389484,7 +390426,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/78b4d6da22b7fd574d4de047c7d0e798",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=78b4d6da22b7fd574d4de047c7d0e798",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -389613,7 +390555,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7c890797e1b5c7c14d2b17b228762937",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7c890797e1b5c7c14d2b17b228762937",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -389693,6 +390635,22 @@
         "f2b437d19738c856eeb83603bdb2a87c"
       ],
       "sennet_id": "SNT767.WLMQ.697"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/7e97e987662db23d5960f48bb459fc9a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=7e97e987662db23d5960f48bb459fc9a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "85e960bf98c9d58a1abc23266588d12e",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT292.HDDZ.599"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7f2eb65eab4f0954584e67b0dcbb47e8",
@@ -389823,7 +390781,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/848df49f0feb658d84313e4fe33bfaee",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=848df49f0feb658d84313e4fe33bfaee",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -390196,6 +391154,22 @@
       "sennet_id": "SNT525.JDXK.847"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/96e881394a5f2159f9b8607c8083def1",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=96e881394a5f2159f9b8607c8083def1",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "b1d6b6a206d464f7e5a64e7083683a95",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT429.QNKK.235"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/98f88358f28af965f2fbba79f3625763",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -390499,6 +391473,38 @@
       "sennet_id": "SNT763.DCCV.973"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a4404c0783032f79ee6938011d104bfe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a4404c0783032f79ee6938011d104bfe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "624eac428852d0e02e902fc8dfe00191",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT937.LDHL.627"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a55ffa959bc6e0e0530ff070cb314a7a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a55ffa959bc6e0e0530ff070cb314a7a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "4a01f334dfb9e916bd8e182af4564fad",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT255.DGXN.627"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/a57f108e6644f2135a629c706cce2880",
       "@type": "Dataset",
       "label": "Registered 3/6/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -390695,6 +391701,22 @@
       "sennet_id": "SNT532.SGRF.853"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/aaf0433c065bc79122b0bc10cf56afd7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=aaf0433c065bc79122b0bc10cf56afd7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "39caacfacac810ff6b532da62dc51913",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT633.TDKC.388"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/aaf861df205ce0fcdc2c1b001bf16445",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -390709,6 +391731,22 @@
         "f71944e064f90248829660d1e2fd146e"
       ],
       "sennet_id": "SNT866.DDTV.549"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "125d72f23e1300a0c2a71c5624a324e0",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT359.NHFV.527"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ac98023f3186056718a22f39fd39091f",
@@ -390757,6 +391795,22 @@
         "257d825473c1a2f63f805b7f86d1ac9b"
       ],
       "sennet_id": "SNT348.RMFN.592"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/adb14d72084cb48be08c70214a3ce8e7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=adb14d72084cb48be08c70214a3ce8e7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "533b8297b85b1a4e643f0ba7f52963a8",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT479.ZQJC.745"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ae047dd2d1aa3614e2375892b2332741",
@@ -390852,6 +391906,23 @@
         "1e7d796780b6cf1e4a3ef8a7a59a2b51"
       ],
       "sennet_id": "SNT488.TCSL.996"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b10265952f75a27058c2d7fedba02c6b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Pittsburgh",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b10265952f75a27058c2d7fedba02c6b",
+      "description": "Dataset Type: Visium HD",
+      "technology": "Visium HD",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "f4ee0aada41c191d2fe35ed4dba47ad6",
+        "1da5bd53b077a43a74a242b38c17ccdb",
+        "81decdb1bcf1985442fb9254f4c08c9e",
+        "dca6893a404abbe7e1714666653c964c",
+        "fc2ff31e3c065a0cb1726a18bc9ee3e7"
+      ],
+      "sennet_id": "SNT572.LHWQ.822"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b129becb1f4d268411b9e7443bc6e48a",
@@ -390966,6 +392037,22 @@
         "1486ee0b60f82a7f86f6d7d9af9aadd8"
       ],
       "sennet_id": "SNT427.HJMX.989"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b5c53e7ced70e2442997c1601bb5e67a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b5c53e7ced70e2442997c1601bb5e67a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5c208fa678fbdc2c4d631377ef7e869a",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT792.LBRT.495"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
@@ -391110,6 +392197,22 @@
       "sennet_id": "SNT972.XLSN.992"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b93c06611a0e7dc7aea6ee45ec67effe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b93c06611a0e7dc7aea6ee45ec67effe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "828facf2c3743dfd4dede20df0641779",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT775.XDFR.967"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b9e389951d2b1e5f4a7b93f765762985",
       "@type": "Dataset",
       "label": "Registered 8/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -391221,6 +392324,22 @@
       "sennet_id": "SNT588.HFTQ.737"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/bf92feb4a06f895236b2816f205aa53a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=bf92feb4a06f895236b2816f205aa53a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "75612c658a3548efb93e789d5e5bfbc5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT356.QQMG.282"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/bfec803586d41d79246074d7adb1c05d",
       "@type": "Dataset",
       "label": "Registered 3/10/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -391303,6 +392422,22 @@
       "sennet_id": "SNT445.PQVM.734"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c22159700e113b219ee83ff4bab77180",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c22159700e113b219ee83ff4bab77180",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "17d0e34a27754d40391b71d8e14cb960",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT455.WXNT.554"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/c2a835995f71ba07a3345f14b37de6c5",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -391368,6 +392503,22 @@
         "6f0d582950e312b665514f02997064a3"
       ],
       "sennet_id": "SNT822.JTDB.276"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8143ae3eda0aec6d94776df73cb93ac0",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT349.FJDW.627"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c67852242a3984991ce996ea39374b93",
@@ -391486,7 +392637,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ca6d2ede4639d8c773150f4ac2a95b75",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ca6d2ede4639d8c773150f4ac2a95b75",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -391840,6 +392991,22 @@
       "sennet_id": "SNT478.PDHW.589"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/d5deca72c99b8b7351c0cb990e8da07c",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=d5deca72c99b8b7351c0cb990e8da07c",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8c46ace34712b49e8aafa293bd83ba8d",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT626.JNBG.273"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -392069,7 +393236,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dff0ccd20f3ff38c9e6983a0aa2806f9",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dff0ccd20f3ff38c9e6983a0aa2806f9",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -392339,7 +393506,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ebe923b2fd610dc1b4c634e3c216e51f",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ebe923b2fd610dc1b4c634e3c216e51f",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -392436,7 +393603,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ee6811ac7c6e2c96bd91032347ba8fa7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ee6811ac7c6e2c96bd91032347ba8fa7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -392543,6 +393710,22 @@
         "645e061734f98741967970f088b699ba"
       ],
       "sennet_id": "SNT645.PDVF.536"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f282b02f4df6fc3b59a1d2018a7220c0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f282b02f4df6fc3b59a1d2018a7220c0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5511e04f4d84ba42ba92a4b37a8cf5b5",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT773.DSCX.355"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f526398276bb1e6b7ae5b950cd2d88ea",
@@ -392660,7 +393843,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7bb8292148c87a781a8a09e7be40659",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7bb8292148c87a781a8a09e7be40659",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -392676,7 +393859,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7c95d086c355144ed3613bcde1bf0b7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7c95d086c355144ed3613bcde1bf0b7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -392822,7 +394005,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/fb9db73f28c4e69268ac4d756013c728",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=fb9db73f28c4e69268ac4d756013c728",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -393909,6 +395092,19 @@
       "sennet_id": "SNT597.TZFT.494"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0a1a9c8dc935a84b6a1a01a8c03f508a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0a1a9c8dc935a84b6a1a01a8c03f508a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "494535b0cf6f9b9172fa107ec72d6fc6"
+      ],
+      "sennet_id": "SNT375.NXKC.237"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0a2176356f14fd59a0d169ad5a50724c",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -394089,6 +395285,19 @@
         "d062a03493a6d52b8d3661679914f329"
       ],
       "sennet_id": "SNT339.ZKJK.357"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0c10cc56c7e0cc0945dc8f7566a441a8",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0c10cc56c7e0cc0945dc8f7566a441a8",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9fb9b6a196d1c5a9963b9787d0aa0cff"
+      ],
+      "sennet_id": "SNT238.BJDL.644"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0c1b9e4bba012efc6bf370c95b93ba67",
@@ -396413,6 +397622,19 @@
       "sennet_id": "SNT977.BVTW.293"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2016242984385ad3c7126deb7e004ee3",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2016242984385ad3c7126deb7e004ee3",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9a0db5ddc9974edf2c7b2f0a8f4289b5"
+      ],
+      "sennet_id": "SNT345.KDNW.743"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/202db4b4a8f2b268bdb2c20544675bfa",
       "@type": "Dataset",
       "label": "Registered 12/10/2025, SenNet Process, TMC - Columbia University",
@@ -396450,6 +397672,19 @@
         "15f84d9d59df39498e4fa60cadbfaa9d"
       ],
       "sennet_id": "SNT246.PJQH.256"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/20e3bf2c5bd389ae6ebd2fcd719269c4",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=20e3bf2c5bd389ae6ebd2fcd719269c4",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "72719d2be7afb509e9754ae491050155"
+      ],
+      "sennet_id": "SNT688.PBRZ.957"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/21336624d176153956907d43984f9763",
@@ -396568,6 +397803,19 @@
         "571a6ab55320d9c9a168998dff6f5888"
       ],
       "sennet_id": "SNT395.QVXS.675"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/21bf4a9bd2cd5fdd8f3345a94c338b64",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=21bf4a9bd2cd5fdd8f3345a94c338b64",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "f029b9077012a9dffb060f550f58527b"
+      ],
+      "sennet_id": "SNT842.QRXK.793"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/21c3eb2b27d8debc32a26dc2e4546385",
@@ -397739,6 +398987,19 @@
         "3feb0abbf029f2055e1ad15827aa7734"
       ],
       "sennet_id": "SNT534.BRLV.995"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/2b77ebde74bf36d97a1843473471cfec",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=2b77ebde74bf36d97a1843473471cfec",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "7999753afe0e993d0281fa56c26c4b4d"
+      ],
+      "sennet_id": "SNT396.QZHX.443"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2b8af2da789958980805ea8716b15679",
@@ -399246,6 +400507,19 @@
       "sennet_id": "SNT656.QFQG.226"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3b2bbcee79b69449181690504c8a5b53",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3b2bbcee79b69449181690504c8a5b53",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9c8ae72df80c36779f312855756f868f"
+      ],
+      "sennet_id": "SNT646.NNFS.597"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/3b491d733246e1ea29d772aea6c2ce27",
       "@type": "Dataset",
       "label": "Registered 4/17/2024, SenNet Process, TMC - Buck Institute",
@@ -400317,6 +401591,19 @@
       "sennet_id": "SNT596.SHPB.547"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4378bc7e3633e696bc26e49830cf959a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4378bc7e3633e696bc26e49830cf959a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "8ba7b4918ff237e41c75fc1f0713a994"
+      ],
+      "sennet_id": "SNT793.XGGQ.486"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/438154eae4bceec977e7bf0e52b5272c",
       "@type": "Dataset",
       "label": "Registered 5/19/2026, SenNet Process, TMC - Duke University",
@@ -400762,6 +402049,19 @@
       "sennet_id": "SNT774.VMHP.883"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/46022433d0779e3a6381c851ef7e7fa6",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=46022433d0779e3a6381c851ef7e7fa6",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d7e58485720842982a6aa06b2985b54b"
+      ],
+      "sennet_id": "SNT758.LSDS.225"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/46151f5663126e5e0f98c04842be8931",
       "@type": "Dataset",
       "label": "Registered 3/7/2024, Sergii Domanskyi, TMC - UConn Health",
@@ -401051,6 +402351,19 @@
         "8fd8526d2f46387b72bc3a4f263c42c2"
       ],
       "sennet_id": "SNT937.RHPC.693"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/48a816fec4ca711b5e8422b7a9169236",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=48a816fec4ca711b5e8422b7a9169236",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0dc3e4beaba4675f8947c18c2803a5c0"
+      ],
+      "sennet_id": "SNT365.CNQH.556"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/48b89e9b8e7ba639c8bd7aedd1685ded",
@@ -402861,6 +404174,19 @@
         "2524bd4dc58bc5f4a6688f6f1ab728c5"
       ],
       "sennet_id": "SNT626.VFTX.645"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/580e5d9e092c32e6065545b84f5023ac",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=580e5d9e092c32e6065545b84f5023ac",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0457971a045514fa14992ee2a740b2c9"
+      ],
+      "sennet_id": "SNT733.FBFL.623"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/581ad3683837f2431f74190246bc2244",
@@ -404678,6 +406004,19 @@
       "sennet_id": "SNT455.LCZL.326"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/67470f1d5f35dd41085153745d244836",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=67470f1d5f35dd41085153745d244836",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "18626a3f1a85aff8f27782e4412a2581"
+      ],
+      "sennet_id": "SNT646.KWJV.399"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/67522b8379d743380f869e4a416f1072",
       "@type": "Dataset",
       "label": "Registered 6/6/2025, SenNet Process, TMC - UConn Health",
@@ -405080,6 +406419,19 @@
         "0336236500b4e730d41a5d8448dfc58a"
       ],
       "sennet_id": "SNT337.RDSC.286"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6a99bff72539db89186b3267e7babc1d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6a99bff72539db89186b3267e7babc1d",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "765d588da82a297aa758ba4ec471fede"
+      ],
+      "sennet_id": "SNT536.RHCL.695"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/6a9cbd4cfc9eb3ca595ad6008b7f202a",
@@ -406281,6 +407633,19 @@
         "1218dfe39f53a129dc2ff3613da9c724"
       ],
       "sennet_id": "SNT249.ZSZD.932"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/77d6e0f9d0b138d4716d485c3c50dd80",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=77d6e0f9d0b138d4716d485c3c50dd80",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "9c41a52a9d98f566762da1e90b03d344"
+      ],
+      "sennet_id": "SNT329.VNMN.442"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/77dbc949ecf2ed54d73dcd5e50042eed",
@@ -409567,6 +410932,19 @@
         "f09f8ab35522f42e5506ae04593aec47"
       ],
       "sennet_id": "SNT393.GWVP.327"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/97f729a57e2298a2d8008ce0c4e5da2b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=97f729a57e2298a2d8008ce0c4e5da2b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d9ce640e7f15003b8962eabac400f234"
+      ],
+      "sennet_id": "SNT253.VSFG.923"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/97fb95b46dfbab26e8278f8caccf1b88",
@@ -412867,6 +414245,19 @@
       "sennet_id": "SNT795.FVGL.277"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b2efdc7f1a89bfd3c1a66da3b77ca0ae",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b2efdc7f1a89bfd3c1a66da3b77ca0ae",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0574793ca313c582768aa5c1523266dc"
+      ],
+      "sennet_id": "SNT447.DFGP.959"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b30d0d6d6861c0291234ce40481a6978",
       "@type": "Dataset",
       "label": "Registered 6/8/2026, SenNet Process, TMC - UConn Health",
@@ -412904,6 +414295,19 @@
         "de2cfe7984f6489fe38b2e3f526dc9dd"
       ],
       "sennet_id": "SNT354.RXSZ.786"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b365cb1374a4a9ab7550e1ecd8e7febb",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b365cb1374a4a9ab7550e1ecd8e7febb",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d804f917c238881726df294080d7646b"
+      ],
+      "sennet_id": "SNT853.PFFC.763"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b3813ce55faa36202e3bc89511b6af27",
@@ -413561,6 +414965,19 @@
         "651498acc3f129f36752887aefdc29e7"
       ],
       "sennet_id": "SNT463.QCCT.554"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/bab66e78d18656e81b19bf8df305369a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=bab66e78d18656e81b19bf8df305369a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "0c0a818a07ae8de190dd6140682f6121"
+      ],
+      "sennet_id": "SNT992.GJMG.298"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/bafe26f59a3f062ed80f8f20c124f554",
@@ -414270,6 +415687,19 @@
         "7c2a56e4600ae1021830bdff9c979d7c"
       ],
       "sennet_id": "SNT557.TWWB.685"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c12e23a9d7405d7ee0c1e209fb77ca1b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c12e23a9d7405d7ee0c1e209fb77ca1b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "e9bfa9c3fd0ab2d3412702f765482bda"
+      ],
+      "sennet_id": "SNT629.XKWZ.392"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c158320fcfc39359411f2b505a97cce1",
@@ -415370,6 +416800,19 @@
         "0e7d937b063ed0a553cf98a4db0cda6d"
       ],
       "sennet_id": "SNT844.FTBK.253"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/cb32164fed04b2ce0e5cfb0cee30f55b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=cb32164fed04b2ce0e5cfb0cee30f55b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "04ce6b611927513083d2904912842572"
+      ],
+      "sennet_id": "SNT753.LXXG.676"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/cb382a421826265244e153e5b8ddd366",
@@ -417591,6 +419034,19 @@
       "sennet_id": "SNT685.MLMC.326"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/dd70136b34cb8a86269afd9dc94f99cb",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=dd70136b34cb8a86269afd9dc94f99cb",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d768998e8bf17f45a4a26759fd64c1c4"
+      ],
+      "sennet_id": "SNT854.KSGP.828"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/ddc5ef97daefa5ef27539c27310d15ab",
       "@type": "Dataset",
       "label": "Registered 6/3/2026, SenNet Process, TMC - Duke University",
@@ -417905,6 +419361,19 @@
         "5f6e1ecbd79d75f365aebbe0612bbe32"
       ],
       "sennet_id": "SNT574.MMQC.683"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e02c5d24ca74059d2c363fc74189ce4b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e02c5d24ca74059d2c363fc74189ce4b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "562bbe5541046c3c43f3d1372930729c"
+      ],
+      "sennet_id": "SNT364.GFBD.874"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e02f78a1da55d60691d23fe918e4c5b3",
@@ -418619,6 +420088,19 @@
       "sennet_id": "SNT569.MWGQ.454"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e62aca1d008a51dd85570ae41a0d02b7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e62aca1d008a51dd85570ae41a0d02b7",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "2073df4421cdcc0beba9c48de62c8594"
+      ],
+      "sennet_id": "SNT888.MXVP.548"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e63347bdcce3e79b59f09113fec3cb44",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -418816,6 +420298,19 @@
       "sennet_id": "SNT395.VWGD.986"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e80b5e6116a9b3ecab3086bac410f8bd",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e80b5e6116a9b3ecab3086bac410f8bd",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "d2029b1e037ef3918c75cec5bc95d299"
+      ],
+      "sennet_id": "SNT479.VQQG.382"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/e814a8b12607a7fce04094454d96825d",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -418827,6 +420322,19 @@
         "f7c33127cf5763ca9cdc4c2b68c6cec2"
       ],
       "sennet_id": "SNT633.VTQD.737"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/e81d7c61e8a92a7bd98efdf13d742755",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=e81d7c61e8a92a7bd98efdf13d742755",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "bda05f01ff42d014c6be73d7faaeed28"
+      ],
+      "sennet_id": "SNT445.BPTV.373"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/e832ff66d7a443b3ba072e657240d5d5",
@@ -420921,6 +422429,19 @@
       "sennet_id": "SNT574.LQCM.694"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f97f4045a5e9b38508c4d23778448c6a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f97f4045a5e9b38508c4d23778448c6a",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "3bf4121b79d7fa8a1bd0c9251dd80660"
+      ],
+      "sennet_id": "SNT829.VFMH.524"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/f9884e100f0ed58ae0fae9b978ad7f37",
       "@type": "Dataset",
       "label": "Registered 7/1/2024, SenNet Process, TDA - Pacific Northwest National Laboratory",
@@ -421078,6 +422599,19 @@
         "80b6224f006b3dd360d44381247f45de"
       ],
       "sennet_id": "SNT626.DNSL.944"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/fb53311759aa44b97fbaabab5038710b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=fb53311759aa44b97fbaabab5038710b",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "2b05454c7af1d0a08e1660fbb3524c1c"
+      ],
+      "sennet_id": "SNT544.FLRD.254"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/fb6e833fb4b26af3a3000429f1f6da55",
@@ -421719,7 +423253,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/02b966ee77fb927e4568aade9dde8552",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=02b966ee77fb927e4568aade9dde8552",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -421751,7 +423285,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/03b6c95d61e99b48bd82e94788f624e4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=03b6c95d61e99b48bd82e94788f624e4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -421843,6 +423377,22 @@
       "sennet_id": "SNT469.FFMB.769"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/08e4e54c14c72be08718648d4cc2c4a5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=08e4e54c14c72be08718648d4cc2c4a5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fdfcd9aa3c77d9a9cecaa4982e0380a7",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT472.CRDL.238"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0a39143ad938fe220fec9ce9389b1bcb",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -421893,6 +423443,22 @@
       "sennet_id": "SNT224.THZX.826"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0cc6e8ff2add0ebad49a29e64b2fc4d5",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fd69d19f3c1541ca17d5632b9c5786f1",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT862.TSFV.947"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/0cf65295731637794c0bff9c4ef551ba",
       "@type": "Dataset",
       "label": "Registered 8/17/2026, SenNet Process, TMC - University of Pittsburgh",
@@ -421907,6 +423473,21 @@
         "5fe935a4e8bc051ac96ee3a94161b4b2"
       ],
       "sennet_id": "SNT443.HQNJ.986"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/0e1c9cc68e1f11c35dae10b6fd049978",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - Buck Institute",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=0e1c9cc68e1f11c35dae10b6fd049978",
+      "description": "Dataset Type: LC-MS",
+      "technology": "LC",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-bulk-lc.svg",
+      "__ancestors": [
+        "3c30bd78d2dd9e6df4e11510ecaea0af",
+        "3eb08a1e50b59102ab21bee8cc5f4a70",
+        "77b6ece611fbdae1d6708e23c021bf62"
+      ],
+      "sennet_id": "SNT852.CTGW.283"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/0e6e48108d13d1f3fd0dd6f25bcb8aaf",
@@ -421973,6 +423554,22 @@
         "db487f035a0aae2c1aeb2589cbf18650"
       ],
       "sennet_id": "SNT279.TFJB.875"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/10271b1953eb8a0005a76f7bef82aaf6",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=10271b1953eb8a0005a76f7bef82aaf6",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d15ff669590e99ca67b8cb1a87306ce9",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT433.KRBJ.549"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/10b20d6f5b414c40eeb189f58a47e815",
@@ -422458,7 +424055,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2498adf15c6cbe6f75555f0e523a24d1",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2498adf15c6cbe6f75555f0e523a24d1",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -422633,7 +424230,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/29de9fb53e975bbf1e67ee7f68721221",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=29de9fb53e975bbf1e67ee7f68721221",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -422747,7 +424344,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=2f6780e1ff5648b24e7ddfd0bf8ad49b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -422908,7 +424505,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/35aac7a6dc766c7c253b07ed95ab8b3b",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=35aac7a6dc766c7c253b07ed95ab8b3b",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -422936,6 +424533,23 @@
         "a726e6b3607e280bb561db3aeb149af3"
       ],
       "sennet_id": "SNT659.LNHR.839"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/3624579c76950e80c6814e38db307c4c",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Pittsburgh",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=3624579c76950e80c6814e38db307c4c",
+      "description": "Dataset Type: Visium HD",
+      "technology": "Visium HD",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8f3e64104c01626e00bb61f69d980bd2",
+        "f3cb6a75efd402258de9bd9efa3768a3",
+        "1dc702181ed2175d4ab9c7c6ce0ebd53",
+        "d1ba4ec1538dd97af235bd5dd5706572",
+        "f6db852bb1107badfb10b5ef3f442d07"
+      ],
+      "sennet_id": "SNT394.QMKM.792"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/379ac246e9be31e03a8ade23b537eeca",
@@ -422988,7 +424602,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/3848ea99dd6a17a5eed2cc5a1c66e35e",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=3848ea99dd6a17a5eed2cc5a1c66e35e",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423193,6 +424807,22 @@
       "sennet_id": "SNT362.GNQR.576"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/43970a49d652ca82a69ce5ce60deb685",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=43970a49d652ca82a69ce5ce60deb685",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d2e1d50b0de3b1f4b5fca721bffbd87e",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT862.WTNQ.842"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4453b7b8bb3eda61961e69de7ac6bb55",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -423212,7 +424842,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/454b25527f0bf5944ec5534f5caae999",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=454b25527f0bf5944ec5534f5caae999",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423310,7 +424940,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/489e219dc8c9996c349e2b3b7c17f90c",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=489e219dc8c9996c349e2b3b7c17f90c",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423358,7 +424988,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/48fbfc35ec8b885b9e4c16d54c9a2acc",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=48fbfc35ec8b885b9e4c16d54c9a2acc",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423484,6 +425114,22 @@
       "sennet_id": "SNT837.LMLP.736"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=4d2c6913b8c5b5aaebf120defbf9e7a3",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c44d3e843e0d746cdd32a4ef0a3d264f",
+        "0745b742e3f7d270036f34cc024e74ad",
+        "58d1ed70c8843d35261df4cd2018e674",
+        "41157b6e4ec550c944d5493b501f358f"
+      ],
+      "sennet_id": "SNT282.JLMN.682"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/4dbcccfb5421de14818ad8e6a42ffca9",
       "@type": "Dataset",
       "label": "Registered 3/11/2026, SenNet Process, TDA - Columbia University",
@@ -423517,7 +425163,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/4fe4911305e8a781dbb60f5ff57df049",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=4fe4911305e8a781dbb60f5ff57df049",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423678,6 +425324,22 @@
       "sennet_id": "SNT986.SZKL.244"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/5a80521bd2d3e085c6b6205e75f4e60d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=5a80521bd2d3e085c6b6205e75f4e60d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "c9ea93103e7080045b7af46040a51caf",
+        "2f713641a850720c36bb9f73cd5f32ed",
+        "f07d396f73f406c25c735111190adda0",
+        "a726e6b3607e280bb561db3aeb149af3"
+      ],
+      "sennet_id": "SNT397.XSCB.333"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/5b06d90c1a6a2f1e4fa0787f4a492e8b",
       "@type": "Dataset",
       "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -423775,7 +425437,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/5ddeeddade263d8465bb6f940d546d32",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=5ddeeddade263d8465bb6f940d546d32",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423949,7 +425611,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=62c6ddeefc3b6b2c33d5c1a04bee4ab4",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423980,9 +425642,25 @@
       "sennet_id": "SNT999.QKTD.578"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/634c7edcb066ab61d53c4ae2be4c625d",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=634c7edcb066ab61d53c4ae2be4c625d",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "222599ff62a889f6f125ae9bbd216747",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT887.NWWV.839"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/63c0a018e276fcc046317d48d8edf8db",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=63c0a018e276fcc046317d48d8edf8db",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -423994,6 +425672,22 @@
         "a726e6b3607e280bb561db3aeb149af3"
       ],
       "sennet_id": "SNT563.SGTW.344"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/644e9f1caa2ce1dddbb5b5662e877b5b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=644e9f1caa2ce1dddbb5b5662e877b5b",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fcfa6a0a6caaca5247ac1633da875060",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT879.BFPN.237"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/64b61f0e4b7b0c82220f2e5939b6967b",
@@ -424191,6 +425885,22 @@
       "sennet_id": "SNT442.SMCV.866"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/6fd8efba22742741984d455df2cd8f68",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=6fd8efba22742741984d455df2cd8f68",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "366daa81a32347c7f63b89c5fe0a9dd5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT978.ZSGL.974"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/7026340ade0af977c3ce23a90da514d0",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -424289,6 +425999,22 @@
       "sennet_id": "SNT799.HQGK.857"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/74d1e95a42a59162e6eab9a5b18dd7b9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=74d1e95a42a59162e6eab9a5b18dd7b9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8f196879385fe5d15544584289590b98",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT957.PMTL.483"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/74f5d05346b7873824b24311de77a325",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -424323,7 +426049,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/78b4d6da22b7fd574d4de047c7d0e798",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=78b4d6da22b7fd574d4de047c7d0e798",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -424452,7 +426178,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7c890797e1b5c7c14d2b17b228762937",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=7c890797e1b5c7c14d2b17b228762937",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -424532,6 +426258,22 @@
         "f2b437d19738c856eeb83603bdb2a87c"
       ],
       "sennet_id": "SNT767.WLMQ.697"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/7e97e987662db23d5960f48bb459fc9a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=7e97e987662db23d5960f48bb459fc9a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "85e960bf98c9d58a1abc23266588d12e",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT292.HDDZ.599"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/7f2eb65eab4f0954584e67b0dcbb47e8",
@@ -424662,7 +426404,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/848df49f0feb658d84313e4fe33bfaee",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=848df49f0feb658d84313e4fe33bfaee",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -425035,6 +426777,22 @@
       "sennet_id": "SNT525.JDXK.847"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/96e881394a5f2159f9b8607c8083def1",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=96e881394a5f2159f9b8607c8083def1",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "b1d6b6a206d464f7e5a64e7083683a95",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT429.QNKK.235"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/98f88358f28af965f2fbba79f3625763",
       "@type": "Dataset",
       "label": "Registered 6/1/2026, SenNet Process, TMC - UConn Health",
@@ -425338,6 +427096,38 @@
       "sennet_id": "SNT763.DCCV.973"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a4404c0783032f79ee6938011d104bfe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a4404c0783032f79ee6938011d104bfe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "624eac428852d0e02e902fc8dfe00191",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT937.LDHL.627"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/a55ffa959bc6e0e0530ff070cb314a7a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=a55ffa959bc6e0e0530ff070cb314a7a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "4a01f334dfb9e916bd8e182af4564fad",
+        "13cae21a85ea9c6d5258f9262264d75f",
+        "032d1d1c5b38da63ece9a2541fff23d3",
+        "0c5cab46c10b131ebb6c40d68cfa79ff"
+      ],
+      "sennet_id": "SNT255.DGXN.627"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/a57f108e6644f2135a629c706cce2880",
       "@type": "Dataset",
       "label": "Registered 3/6/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -425534,6 +427324,22 @@
       "sennet_id": "SNT532.SGRF.853"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/aaf0433c065bc79122b0bc10cf56afd7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=aaf0433c065bc79122b0bc10cf56afd7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "39caacfacac810ff6b532da62dc51913",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT633.TDKC.388"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/aaf861df205ce0fcdc2c1b001bf16445",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -425548,6 +427354,22 @@
         "f71944e064f90248829660d1e2fd146e"
       ],
       "sennet_id": "SNT866.DDTV.549"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=ab3dc618ad2a0c4e7e9b68ba23b3dca9",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "125d72f23e1300a0c2a71c5624a324e0",
+        "56008c91236202bf136189703050d409",
+        "2f6ff76d9862ec9df630058359fedcb4",
+        "9562836af6a1a06ba71437cd343f8bbf"
+      ],
+      "sennet_id": "SNT359.NHFV.527"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ac98023f3186056718a22f39fd39091f",
@@ -425596,6 +427418,22 @@
         "257d825473c1a2f63f805b7f86d1ac9b"
       ],
       "sennet_id": "SNT348.RMFN.592"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/adb14d72084cb48be08c70214a3ce8e7",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=adb14d72084cb48be08c70214a3ce8e7",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "533b8297b85b1a4e643f0ba7f52963a8",
+        "2cc05ef9d80e10807943b582726aed85",
+        "865c6b061df87a527c1fc373105dc717",
+        "9f12272ed711a7ede9d8862178ea60d8"
+      ],
+      "sennet_id": "SNT479.ZQJC.745"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ae047dd2d1aa3614e2375892b2332741",
@@ -425691,6 +427529,23 @@
         "1e7d796780b6cf1e4a3ef8a7a59a2b51"
       ],
       "sennet_id": "SNT488.TCSL.996"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b10265952f75a27058c2d7fedba02c6b",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Pittsburgh",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b10265952f75a27058c2d7fedba02c6b",
+      "description": "Dataset Type: Visium HD",
+      "technology": "Visium HD",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "f4ee0aada41c191d2fe35ed4dba47ad6",
+        "1da5bd53b077a43a74a242b38c17ccdb",
+        "81decdb1bcf1985442fb9254f4c08c9e",
+        "dca6893a404abbe7e1714666653c964c",
+        "fc2ff31e3c065a0cb1726a18bc9ee3e7"
+      ],
+      "sennet_id": "SNT572.LHWQ.822"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b129becb1f4d268411b9e7443bc6e48a",
@@ -425805,6 +427660,22 @@
         "1486ee0b60f82a7f86f6d7d9af9aadd8"
       ],
       "sennet_id": "SNT427.HJMX.989"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b5c53e7ced70e2442997c1601bb5e67a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b5c53e7ced70e2442997c1601bb5e67a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5c208fa678fbdc2c4d631377ef7e869a",
+        "2519ea6259690ac29b5e92527a86ddbf",
+        "694f01a675747cba082b453b70e0410e",
+        "6e2646804d7075346b3052342ba3c227"
+      ],
+      "sennet_id": "SNT792.LBRT.495"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/b5cc6229699a1ad2fe62613ae4a43747",
@@ -425949,6 +427820,22 @@
       "sennet_id": "SNT972.XLSN.992"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/b93c06611a0e7dc7aea6ee45ec67effe",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=b93c06611a0e7dc7aea6ee45ec67effe",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "828facf2c3743dfd4dede20df0641779",
+        "946847a6556566e2e80c3b8a00f36faf",
+        "a208760453e2b35519398a8e722666ca",
+        "a8ac548a7ffa9e52fa19064b05b9fb55"
+      ],
+      "sennet_id": "SNT775.XDFR.967"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/b9e389951d2b1e5f4a7b93f765762985",
       "@type": "Dataset",
       "label": "Registered 8/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -426060,6 +427947,22 @@
       "sennet_id": "SNT588.HFTQ.737"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/bf92feb4a06f895236b2816f205aa53a",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=bf92feb4a06f895236b2816f205aa53a",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "75612c658a3548efb93e789d5e5bfbc5",
+        "dc47e781b63350ec3a04b1e89acbfb04",
+        "c965c51158403bc24f46fcebe1e8458d",
+        "645e061734f98741967970f088b699ba"
+      ],
+      "sennet_id": "SNT356.QQMG.282"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/bfec803586d41d79246074d7adb1c05d",
       "@type": "Dataset",
       "label": "Registered 3/10/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -426142,6 +428045,22 @@
       "sennet_id": "SNT445.PQVM.734"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c22159700e113b219ee83ff4bab77180",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c22159700e113b219ee83ff4bab77180",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "17d0e34a27754d40391b71d8e14cb960",
+        "9b4d1cf044b3621ddaaa6ed5f7c4d879",
+        "32f710c12a513f877af6a94709aeee4c",
+        "47ae03b00fc94c1997083f863ac61668"
+      ],
+      "sennet_id": "SNT455.WXNT.554"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/c2a835995f71ba07a3345f14b37de6c5",
       "@type": "Dataset",
       "label": "Registered 8/4/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -426207,6 +428126,22 @@
         "6f0d582950e312b665514f02997064a3"
       ],
       "sennet_id": "SNT822.JTDB.276"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=c629eb77a19dfdf6ff4ad05ee2c60ab0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8143ae3eda0aec6d94776df73cb93ac0",
+        "d06a7de2cf68387c24313c1c15c7f8a1",
+        "164e8b2c63412286fb86852df4ab6c89",
+        "f71944e064f90248829660d1e2fd146e"
+      ],
+      "sennet_id": "SNT349.FJDW.627"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/c67852242a3984991ce996ea39374b93",
@@ -426325,7 +428260,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ca6d2ede4639d8c773150f4ac2a95b75",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ca6d2ede4639d8c773150f4ac2a95b75",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -426679,6 +428614,22 @@
       "sennet_id": "SNT478.PDHW.589"
     },
     {
+      "@id": "https://entity.api.sennetconsortium.org/entities/d5deca72c99b8b7351c0cb990e8da07c",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=d5deca72c99b8b7351c0cb990e8da07c",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8c46ace34712b49e8aafa293bd83ba8d",
+        "e1aae0bcb024f4dc272033919e75ac58",
+        "570f21faf6349159b21c4ba2e858d410",
+        "db8be41fce93480690847f622def0e8e"
+      ],
+      "sennet_id": "SNT626.JNBG.273"
+    },
+    {
       "@id": "https://entity.api.sennetconsortium.org/entities/d6632a09aca9b0c9fd8c9a5206cc8665",
       "@type": "Dataset",
       "label": "Registered 9/8/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
@@ -426908,7 +428859,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/dff0ccd20f3ff38c9e6983a0aa2806f9",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=dff0ccd20f3ff38c9e6983a0aa2806f9",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -427178,7 +429129,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ebe923b2fd610dc1b4c634e3c216e51f",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ebe923b2fd610dc1b4c634e3c216e51f",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -427275,7 +429226,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/ee6811ac7c6e2c96bd91032347ba8fa7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=ee6811ac7c6e2c96bd91032347ba8fa7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -427382,6 +429333,22 @@
         "645e061734f98741967970f088b699ba"
       ],
       "sennet_id": "SNT645.PDVF.536"
+    },
+    {
+      "@id": "https://entity.api.sennetconsortium.org/entities/f282b02f4df6fc3b59a1d2018a7220c0",
+      "@type": "Dataset",
+      "label": "Registered 9/18/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "link": "https://data.sennetconsortium.org/dataset?uuid=f282b02f4df6fc3b59a1d2018a7220c0",
+      "description": "Dataset Type: Histology",
+      "technology": "Histology",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5511e04f4d84ba42ba92a4b37a8cf5b5",
+        "ab346e6a5bf430e6cbba6f4babb3aa37",
+        "a18d6ef748f6a8e70227791100221a54",
+        "c3c1e794c50e568b10c7fe3f0e8485a6"
+      ],
+      "sennet_id": "SNT773.DSCX.355"
     },
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f526398276bb1e6b7ae5b950cd2d88ea",
@@ -427499,7 +429466,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7bb8292148c87a781a8a09e7be40659",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7bb8292148c87a781a8a09e7be40659",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -427515,7 +429482,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/f7c95d086c355144ed3613bcde1bf0b7",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=f7c95d086c355144ed3613bcde1bf0b7",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
@@ -427661,7 +429628,7 @@
     {
       "@id": "https://entity.api.sennetconsortium.org/entities/fb9db73f28c4e69268ac4d756013c728",
       "@type": "Dataset",
-      "label": "Registered 9/2/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
+      "label": "Registered 9/23/2026, SenNet Process, TMC - University of Minnesota - Niedernhofer",
       "link": "https://data.sennetconsortium.org/dataset?uuid=fb9db73f28c4e69268ac4d756013c728",
       "description": "Dataset Type: Visium (with probes)",
       "technology": "Visium (with probes)",
