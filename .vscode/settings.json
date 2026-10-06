@@ -19,7 +19,8 @@
     "statusBarItem.remoteBackground": "#5e03dc",
     "statusBarItem.remoteForeground": "#e7e7e7",
     "activityBar.activeBorder": "#e7e7e7",
-    "activityBarTop.activeBorder": "#e7e7e7"
+    "activityBarTop.activeBorder": "#e7e7e7",
+    "statusBar.inactiveBackground": "#02943f"
   },
   "peacock.remoteColor": "#02943f"
 }
