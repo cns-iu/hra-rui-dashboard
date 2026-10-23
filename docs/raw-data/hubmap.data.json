@@ -263275,6 +263275,22 @@
       "hubmap_id": "HBM364.HKWM.762"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/09a93d0edab976eccc865e0996a54890",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/09a93d0edab976eccc865e0996a54890",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1f432be641c198f5e6842d0e70b6352e",
+        "d4f8b54736676d689d962385225f4661",
+        "4e26b6545076f0184e505e7675444f50",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM486.JPHW.957"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/09c810afcc0e358169507b1b579b2425",
       "@type": "Dataset",
       "label": "Registered 4/16/2026, HuBMAP Process, TMC - University of Pennsylvania",
@@ -266628,6 +266644,22 @@
       "hubmap_id": "HBM744.BFSJ.565"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0ea1c672c434bc8ee500713430020944",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0ea1c672c434bc8ee500713430020944",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d0bc45355a4e2cc48a425a5b18e26f65",
+        "75f458195a74cdf93660813059d54e93",
+        "9d91b76d538a9fe9b0b25a3ca014793c",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM758.WJJX.734"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0ea23c262cd002c975e45ebabc3aa0c7",
       "@type": "Dataset",
       "label": "Registered 6/8/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -268385,6 +268417,22 @@
         "99eea62c9779f8aaaa23aa1365766e0c"
       ],
       "hubmap_id": "HBM688.PVVG.363"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/111194f71875be43405b4cb4a1415e06",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/111194f71875be43405b4cb4a1415e06",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "40c95038ecb095b3d5f6309218db490d",
+        "cf812227e5ec71a1764fefad8e4162af",
+        "30cee3650f5449980dc0ad1d040ff3dc",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM758.LQGV.459"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/111c4c8e4c772079e839c3ee92a3e735",
@@ -274883,6 +274931,22 @@
         "c538c6fec94626e28028f1704d4b5b96"
       ],
       "hubmap_id": "HBM779.MWGW.983"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1ae393be0c92a195662c14fbc76508dd",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1ae393be0c92a195662c14fbc76508dd",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1bebb0636ea750c4ecbe1a9de6fab930",
+        "bcdb1f1025f94294b29b4da8bc709d3f",
+        "414c24519dfcd571053e5b51cc2d4329",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM897.HGLL.634"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1ae63b026ef715a2479f7801b7be8abc",
@@ -293474,6 +293538,22 @@
       "hubmap_id": "HBM328.HKFC.835"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3756dc8c717e96cbd0067334b5988cbc",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3756dc8c717e96cbd0067334b5988cbc",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fc913044f9d149d568879b8f182ce2a6",
+        "b157d34327190ad51046379fd0a7e869",
+        "c344c715274c20073a8ba03fa8da751d",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM457.GLTB.229"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/3757500ea1deaa5e0fb0359a6dea2936",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -294161,6 +294241,22 @@
         "92eb3bd431e7889a28a32c4050269ed6"
       ],
       "hubmap_id": "HBM424.PHGW.839"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3858d718706534b9f842c81efb27b34c",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3858d718706534b9f842c81efb27b34c",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "17c62656f7678e565f61d96b1acce378",
+        "adcc860564dd5f6347b7dc247d330872",
+        "3264230f25aefb665cbaef64e945353a",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM365.HCPH.335"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/386223719f5bafb3ef2781e7b05eff89",
@@ -313061,6 +313157,22 @@
       "hubmap_id": "HBM723.BBCH.543"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/56ccaa651ea56be134db886fc34cb614",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/56ccaa651ea56be134db886fc34cb614",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e53a8540e764395ca0646bb1d9742e6e",
+        "4c003a2c41c247d3f969c6b30c8d5156",
+        "ebd0d94b0bb371d091cbdeffea26031a",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM677.JWZL.375"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/56cd9eb9f27564c34bfe4eb843d9b969",
       "@type": "Dataset",
       "label": "Registered 5/5/2023, daniel Cotter, TMC-Stanford",
@@ -327690,6 +327802,22 @@
       "hubmap_id": "HBM934.TPWM.953"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/6c82852d89572cb8c0004ab87ab7399f",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/6c82852d89572cb8c0004ab87ab7399f",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "977b18502f0bd561ae5ca42d676fd54a",
+        "9d57f6800e1d537afd6550490d751c6b",
+        "f9f175f0d7f26ec2d3edff2731da847c",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM488.RQGZ.296"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/6c8d52f0a25836e37c5e0e9701149c7c",
       "@type": "Dataset",
       "label": "Registered 3/6/2023, Joel Welling, TMC-Stanford",
@@ -338598,6 +338726,22 @@
       "hubmap_id": "HBM277.HTXJ.346"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/7df68abafc1bcb715c403a33575fdae9",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/7df68abafc1bcb715c403a33575fdae9",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "9cac84c36abc8be98c90a221225e04df",
+        "a06902a0af52996854555c923ec78749",
+        "3aa0cf0e24ae2f6e7c983a175efcee63",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM698.QDJD.329"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/7e073920d7d1a6d9587904e047dac9a1",
       "@type": "Dataset",
       "label": "Registered 9/18/2026, HuBMAP Process, TMC-Stanford",
@@ -347831,6 +347975,22 @@
       "hubmap_id": "HBM254.VFVF.254"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/8e0c6c2af737a74c3bf5724d19fa7a36",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/8e0c6c2af737a74c3bf5724d19fa7a36",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "db9656f7176263667b53732175cdb35f",
+        "23f661634016d46db2b2696cebe57912",
+        "b22f7db18d996534a37cd78da822576f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM447.TGBZ.695"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/8e0f8c74ca57ae29b712469596d4a9ec",
       "@type": "Dataset",
       "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -349748,6 +349908,22 @@
       "hubmap_id": "HBM728.FLNZ.645"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/9151f09efdf8a41a70afc6ee81103789",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/9151f09efdf8a41a70afc6ee81103789",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "369ab368a57f4d496f2653db0247c312",
+        "6ff25e301b5e86566084daf5ec5e6265",
+        "1395b539cdef3e31dc78cf48beef9725",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM658.BFTB.363"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/9153401b3016c80fa820ce2414aa687b",
       "@type": "Dataset",
       "label": "Registered 2/19/2026, HuBMAP Process, RTI-General Electric",
@@ -350568,6 +350744,22 @@
         "a7335d585e467ca66f49d6c3a96b3480"
       ],
       "hubmap_id": "HBM397.WLZZ.984"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/92d3f1cf7383be4f49b64164062d7bd7",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/92d3f1cf7383be4f49b64164062d7bd7",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "65417335f0240a51b87e67196a0eee11",
+        "4e90b0d019acbd34728e4a117e9fb972",
+        "f823b984164b8768c07610942ac79239",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM454.NDGP.363"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/92d6d912f143f830507276697654fd8c",
@@ -353433,6 +353625,22 @@
       "hubmap_id": "HBM273.JVVS.359"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/97a09e769dde406ac371e1de8d64ca2c",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/97a09e769dde406ac371e1de8d64ca2c",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1a7fff12040a9eef044c30c5dfccaf45",
+        "6504eb07549c80295f7911dc4b402089",
+        "3264230f25aefb665cbaef64e945353a",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM369.CPNG.968"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/97a405eff9cb4cf14481e5c436b00f47",
       "@type": "Dataset",
       "label": "Registered 5/10/2022, Hunter Hakimian, TMC-Florida",
@@ -354790,6 +354998,22 @@
         "e53072f540ac2013342a2d89d9067e3d"
       ],
       "hubmap_id": "HBM592.RJKS.292"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/999ff3151397a2bfb07ab66494240806",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/999ff3151397a2bfb07ab66494240806",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2447adda43c5dd0d3d2aea112d4a6a0c",
+        "2bf83d95b33b50da9dfade82cd068826",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM684.JDKD.579"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/99b107ae6d0f0946be9678e3b62314d6",
@@ -365498,6 +365722,22 @@
       "hubmap_id": "HBM469.WSVF.434"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/aab0f7ea5f17727b00a1c605fab7b159",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/aab0f7ea5f17727b00a1c605fab7b159",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "9c0795a0a0bd4ce331b1e1e93df3cff8",
+        "7a32e2667921aee3b9c83943020893b4",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM596.XDVF.968"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/aab12e84cd58b2921b7ac2913ed3fc63",
       "@type": "Dataset",
       "label": "Registered 2/19/2026, HuBMAP Process, TMC-Vanderbilt",
@@ -366654,6 +366894,22 @@
       "hubmap_id": "HBM362.SNKF.366"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/acb97ebe1ba26b956586645adf5681c6",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/acb97ebe1ba26b956586645adf5681c6",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "312bbf32b7c87ce1cbe9af1c098fde4b",
+        "00aa43351911211750493cc2f2bbc656",
+        "8f37917e283fc0d48985ded7ade2ca6e",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM254.PCHT.963"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/acc0efa3619558a30c654a98fb78889a",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -367744,6 +368000,22 @@
       "hubmap_id": "HBM459.BBRT.432"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ae9ff02505b3379765eba8557f91d5b5",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ae9ff02505b3379765eba8557f91d5b5",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "072408e0945624c659d071a043cca31f",
+        "51232e9f51dc9e1d659e229adc6abbe1",
+        "6f996a8c10d402aa4d45ff01a1e3308b",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM446.GHTK.735"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/aea2908c0165645e2c1a1251362c2465",
       "@type": "Dataset",
       "label": "Registered 6/16/2023, Daniel Cotter, TMC-Stanford",
@@ -367971,6 +368243,22 @@
         "7579e5b974d14149e6fa633d5598f9a8"
       ],
       "hubmap_id": "HBM269.WZLN.876"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/af0fe5828870578946b70ce71635be2b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/af0fe5828870578946b70ce71635be2b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b8ae8f9527aa2125a8a9da6f6359194",
+        "d25722fd3322d0b3047fcbd50cd57a3a",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM897.HTBD.544"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/af118b12493d5d3794b38b30c3aced45",
@@ -370751,6 +371039,22 @@
         "f8d963cab6bd10e2a4b8184ea8197fc1"
       ],
       "hubmap_id": "HBM548.WNVT.322"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b2f0fe19d59f8adabe6f294c5930a719",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b2f0fe19d59f8adabe6f294c5930a719",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fe97c9c478245ea3d2bced5768b264e6",
+        "19c50b327957a9df3587d6388cec9ceb",
+        "85567d16c8ea245506f6649f94af5dc8",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM482.WLXR.448"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b2f38810c8ebd9cbc3789d41c13adb11",
@@ -375208,6 +375512,22 @@
         "f477fd0ed977c005313669c8c423fa8d"
       ],
       "hubmap_id": "HBM762.NKMC.467"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ba2d09ea84f5f77d7117c076aa79feed",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ba2d09ea84f5f77d7117c076aa79feed",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "07eea549ec629e784e98e9ef9bb83294",
+        "123638bf3ecbbfdf8bb8a61eb8cb3f91",
+        "3aa0cf0e24ae2f6e7c983a175efcee63",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM225.ZVXC.373"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/ba35e752b5c6b18f75753e76774dda65",
@@ -386826,6 +387146,22 @@
       "hubmap_id": "HBM877.RCLN.985"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/cc90ee8475a0922267b243375e6edfb6",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/cc90ee8475a0922267b243375e6edfb6",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "81a3899430cb993442ee06ed55a35d0a",
+        "8e5ca073d45dfdd248490b4f626c35c5",
+        "7383bb8cb4d0b9de7e5a9544fa36138f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM978.NBWQ.392"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/cc915e548da3dd0b4131c41598c35944",
       "@type": "Dataset",
       "label": "Registered 10/2/2026, HuBMAP Process, TMC-Stanford",
@@ -389388,6 +389724,22 @@
       "hubmap_id": "HBM674.MRHK.553"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d0698a1d3215e9f8a46199241dab9272",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d0698a1d3215e9f8a46199241dab9272",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2c0ea23962c3107ba099eaab53bd61a5",
+        "a9f73b23860ea6d60137e0368c5ac154",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM338.WBVW.874"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d07756dd18fd68c90b5da9bbc1335b0a",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -390542,6 +390894,22 @@
         "9d9330fbf8f457b0aeef774458931921"
       ],
       "hubmap_id": "HBM262.JSBN.522"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d29969a2137c3cbb19d4032fed1e1ceb",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d29969a2137c3cbb19d4032fed1e1ceb",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "55f19b12a03693c38a96c305e8b8077c",
+        "4e01f173a4ecade393cbd07fb1ed8ad0",
+        "1dfdf5e7c826fa172ef72b1c170eaa12",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM383.NFDM.754"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d29a6f53e674521bc80e9c357ca7d6f4",
@@ -396047,6 +396415,22 @@
         "1628b6f7eb615862322d6274a6bc9fa0"
       ],
       "hubmap_id": "HBM254.SXCB.872"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d9da94d48fe2d040a407789c9ec10100",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d9da94d48fe2d040a407789c9ec10100",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "6ded82b27124bd7bd0525e87ceeb79a5",
+        "b4fb44cf912aae085f96ee269a4cd87d",
+        "a644f89bf90c3a0c41a3b2a6ce112bf7",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM387.GWVW.233"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d9e3ad559a02ca6f7a465f1bf16d26db",
@@ -404542,6 +404926,22 @@
         "ae36b667325281a00d66eed4c43c585f"
       ],
       "hubmap_id": "HBM623.MZRF.878"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/e7eeada9f821576bbbf6b23380a10477",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/e7eeada9f821576bbbf6b23380a10477",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ce3e4ed0566f48632d9b9697d62c921c",
+        "c6d560a9137c59dc93a19e2aa73e248e",
+        "4e26b6545076f0184e505e7675444f50",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM985.NDXN.632"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/e7ef79651b4414a76ff5c589db2e3bf2",
@@ -419164,6 +419564,22 @@
       "hubmap_id": "HBM539.XCBN.556"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0192ec6707a4b46e1080cc58c041b83b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0192ec6707a4b46e1080cc58c041b83b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "aa6b3611a605032c32d27454f146d6bb",
+        "4ee2aa7b6de96243a278b10c7ba6fd02",
+        "71bdd9c5ac7b911bdc426c17251804cc",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM892.NNLB.338"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0194ad2135a6e06ededb6c9bbc3f5d2f",
       "@type": "Dataset",
       "label": "Registered 7/1/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -422917,6 +423333,22 @@
         "b98182cf9a3eb04ffdce04d5a8b4f13d"
       ],
       "hubmap_id": "HBM572.GZSM.634"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0c6c76352276b996870e93b3872b904a",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0c6c76352276b996870e93b3872b904a",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "96e69efacdeba3ade27c656d1e9e1a92",
+        "56a29cfe9580fc25094c558eaee38d40",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM456.NPSF.576"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0ca8fd35667822d3eb3d0272be8525cb",
@@ -427334,6 +427766,22 @@
       "hubmap_id": "HBM537.SRFH.775"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1a22ddceeffc6c0850bbd3812da46586",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1a22ddceeffc6c0850bbd3812da46586",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8504e0496487ff9ba18d0e1880ce14d9",
+        "f7cd79229687a4cbd2b1b21d6911d0d0",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM278.TGBV.963"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1a3a78e4774418f0a74158baeeed2724",
       "@type": "Dataset",
       "label": "Registered 11/7/2024, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -427736,6 +428184,22 @@
         "4086dd53a9e443f4ab57207ce77402d2"
       ],
       "hubmap_id": "HBM495.NQVK.277"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1b540c8851000b2dc402565d19f689d0",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1b540c8851000b2dc402565d19f689d0",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2ee89db4c8ce641cfb44e71d5e27fdfb",
+        "b0dbbbc7be0d0ac4eddf50d28cecd62b",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM824.VVST.369"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1b60dde9dd2d1c399ff82f26c074653a",
@@ -433217,6 +433681,22 @@
         "670aa40d3780444f5adaa50ce3768c5e"
       ],
       "hubmap_id": "HBM223.NRCL.839"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/2b1503a919de9ad037435efa8a8ef099",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/2b1503a919de9ad037435efa8a8ef099",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "de6c861866a5d478beaf863e0e58d9b5",
+        "fa5124bc115994c617a6c540da7e7cc4",
+        "71bdd9c5ac7b911bdc426c17251804cc",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM382.NDGQ.853"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/2b28fb5a60ea5d6145368886a1d90b2b",
@@ -439958,6 +440438,22 @@
         "277ba910b00771a81a608846ba883e31"
       ],
       "hubmap_id": "HBM434.ZXBK.229"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3c722d48b6a972cae898369046d7da6a",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3c722d48b6a972cae898369046d7da6a",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "84d5509375343d2040ad44a4cbeafe65",
+        "aed5a9ac8ff955392f62d7e7f03fead0",
+        "8136bcb6c97a5ed76d9bb0ac9053071d",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM438.VWDN.575"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/3c761a3a542e67194143f53e6cd745c6",
@@ -454828,6 +455324,22 @@
       "hubmap_id": "HBM957.KMRW.729"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/62bfb10f2b52053f57c33c998d087b81",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/62bfb10f2b52053f57c33c998d087b81",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ab95bdc69c41c9f10f3539cd5784bcd6",
+        "7048ef696933640dc9fba0c128d826e0",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM454.PKDQ.628"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/62c4f8e860cb9b73438c04e5944c2535",
       "@type": "Dataset",
       "label": "Registered 5/27/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -464209,6 +464721,22 @@
         "b5b4de30c90e4cb3def65407292942e9"
       ],
       "hubmap_id": "HBM357.DGJN.586"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/7b8fdae19e1fa8807caef9f221494977",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/7b8fdae19e1fa8807caef9f221494977",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5dfdd9720ba0ae61021ee526bb699771",
+        "631fe18cf3c718c724a4d5d6d7f69b04",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM533.NZBR.587"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/7ba87ad828feabbdfcf1b309d6032bdb",
@@ -484056,6 +484584,22 @@
       "hubmap_id": "HBM274.TZZV.829"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b0b0e352e82fc23bb062da239c1b5df4",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b0b0e352e82fc23bb062da239c1b5df4",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "744264b2417a8ff8511fa5a2bee443f6",
+        "7b376386d2fb3e18c1296800ef4b04ce",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM279.LWTM.373"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b0d045473051326add9f745244f8a7e2",
       "@type": "Dataset",
       "label": "Registered 6/18/2025, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -485105,6 +485649,22 @@
         "805642e38eead146f4f6caa6e2024b7e"
       ],
       "hubmap_id": "HBM682.GGDM.736"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b3218488b7eba95adbc7f3c87e021ce3",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b3218488b7eba95adbc7f3c87e021ce3",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "041b670fee14068344100f155dc77b0e",
+        "dd6b1da8e4906ecb77ef22f15aef8c1b",
+        "72f4bb3b62cd16fe897ef05c06b2d987",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM572.ZRQF.794"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b322b558d7e73eb6ebf41bd07efb3f8f",
@@ -490462,6 +491022,22 @@
       "hubmap_id": "HBM588.VRFQ.475"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/c2fa6951365bc5cff572e267e1fa1d7b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/c2fa6951365bc5cff572e267e1fa1d7b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d0e39d00a77d629133f77c326dd50dc5",
+        "1bf208f849f0a4458c24ca920c885356",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM429.HGWJ.874"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/c307b706a3222b484c9e09ec9b226bfc",
       "@type": "Dataset",
       "label": "Registered 10/15/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -493860,6 +494436,22 @@
         "75d5619b543b25cd05c7873cdd5628bb"
       ],
       "hubmap_id": "HBM452.HLDC.632"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/cc58bbc257c99d407244a79aa830f53b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/cc58bbc257c99d407244a79aa830f53b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "07fdabf57d1c3eced21ed0e31d868621",
+        "83ab5de48fe74e71c4b1c8db9c6a6986",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM292.MXSS.587"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/cc5f9ae2a04af87acf38c854b673f044",
@@ -501615,6 +502207,22 @@
         "88aba5d4d5940b31dab9072af559f94b"
       ],
       "hubmap_id": "HBM843.XGSS.369"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/e0f971a584daa7c2f5e047c0ec0a24e8",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/e0f971a584daa7c2f5e047c0ec0a24e8",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "bb0fd9984e45aa3e39ace86fdee69e40",
+        "ddaca42453d791dc03b6c669e602623f",
+        "a5fc66b39913837218e1da689f4d020f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM398.SFTK.868"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/e0fe438fbd6097887542ef1157a81e2c",
@@ -511985,6 +512593,22 @@
       "hubmap_id": "HBM428.WPXP.979"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ff98097dae9ce577c732f9177ba65f23",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ff98097dae9ce577c732f9177ba65f23",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0c2552f4567282f17563eb546dc15487",
+        "8475c93f7eb50d944e7981ae2fc5b1b0",
+        "72f4bb3b62cd16fe897ef05c06b2d987",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM339.ZTHJ.385"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/ff9a6c460d23e49641dc89f3a7aa5c85",
       "@type": "Dataset",
       "label": "Registered 10/7/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -518373,6 +518997,22 @@
       "hubmap_id": "HBM364.HKWM.762"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/09a93d0edab976eccc865e0996a54890",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/09a93d0edab976eccc865e0996a54890",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1f432be641c198f5e6842d0e70b6352e",
+        "d4f8b54736676d689d962385225f4661",
+        "4e26b6545076f0184e505e7675444f50",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM486.JPHW.957"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/09c810afcc0e358169507b1b579b2425",
       "@type": "Dataset",
       "label": "Registered 4/16/2026, HuBMAP Process, TMC - University of Pennsylvania",
@@ -521726,6 +522366,22 @@
       "hubmap_id": "HBM744.BFSJ.565"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0ea1c672c434bc8ee500713430020944",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0ea1c672c434bc8ee500713430020944",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d0bc45355a4e2cc48a425a5b18e26f65",
+        "75f458195a74cdf93660813059d54e93",
+        "9d91b76d538a9fe9b0b25a3ca014793c",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM758.WJJX.734"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0ea23c262cd002c975e45ebabc3aa0c7",
       "@type": "Dataset",
       "label": "Registered 6/8/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -523483,6 +524139,22 @@
         "99eea62c9779f8aaaa23aa1365766e0c"
       ],
       "hubmap_id": "HBM688.PVVG.363"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/111194f71875be43405b4cb4a1415e06",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/111194f71875be43405b4cb4a1415e06",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "40c95038ecb095b3d5f6309218db490d",
+        "cf812227e5ec71a1764fefad8e4162af",
+        "30cee3650f5449980dc0ad1d040ff3dc",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM758.LQGV.459"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/111c4c8e4c772079e839c3ee92a3e735",
@@ -529981,6 +530653,22 @@
         "c538c6fec94626e28028f1704d4b5b96"
       ],
       "hubmap_id": "HBM779.MWGW.983"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1ae393be0c92a195662c14fbc76508dd",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1ae393be0c92a195662c14fbc76508dd",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1bebb0636ea750c4ecbe1a9de6fab930",
+        "bcdb1f1025f94294b29b4da8bc709d3f",
+        "414c24519dfcd571053e5b51cc2d4329",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM897.HGLL.634"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1ae63b026ef715a2479f7801b7be8abc",
@@ -548572,6 +549260,22 @@
       "hubmap_id": "HBM328.HKFC.835"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3756dc8c717e96cbd0067334b5988cbc",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3756dc8c717e96cbd0067334b5988cbc",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fc913044f9d149d568879b8f182ce2a6",
+        "b157d34327190ad51046379fd0a7e869",
+        "c344c715274c20073a8ba03fa8da751d",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM457.GLTB.229"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/3757500ea1deaa5e0fb0359a6dea2936",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -549259,6 +549963,22 @@
         "92eb3bd431e7889a28a32c4050269ed6"
       ],
       "hubmap_id": "HBM424.PHGW.839"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3858d718706534b9f842c81efb27b34c",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3858d718706534b9f842c81efb27b34c",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "17c62656f7678e565f61d96b1acce378",
+        "adcc860564dd5f6347b7dc247d330872",
+        "3264230f25aefb665cbaef64e945353a",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM365.HCPH.335"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/386223719f5bafb3ef2781e7b05eff89",
@@ -568159,6 +568879,22 @@
       "hubmap_id": "HBM723.BBCH.543"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/56ccaa651ea56be134db886fc34cb614",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/56ccaa651ea56be134db886fc34cb614",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "e53a8540e764395ca0646bb1d9742e6e",
+        "4c003a2c41c247d3f969c6b30c8d5156",
+        "ebd0d94b0bb371d091cbdeffea26031a",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM677.JWZL.375"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/56cd9eb9f27564c34bfe4eb843d9b969",
       "@type": "Dataset",
       "label": "Registered 5/5/2023, daniel Cotter, TMC-Stanford",
@@ -582788,6 +583524,22 @@
       "hubmap_id": "HBM934.TPWM.953"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/6c82852d89572cb8c0004ab87ab7399f",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/6c82852d89572cb8c0004ab87ab7399f",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "977b18502f0bd561ae5ca42d676fd54a",
+        "9d57f6800e1d537afd6550490d751c6b",
+        "f9f175f0d7f26ec2d3edff2731da847c",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM488.RQGZ.296"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/6c8d52f0a25836e37c5e0e9701149c7c",
       "@type": "Dataset",
       "label": "Registered 3/6/2023, Joel Welling, TMC-Stanford",
@@ -593696,6 +594448,22 @@
       "hubmap_id": "HBM277.HTXJ.346"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/7df68abafc1bcb715c403a33575fdae9",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/7df68abafc1bcb715c403a33575fdae9",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "9cac84c36abc8be98c90a221225e04df",
+        "a06902a0af52996854555c923ec78749",
+        "3aa0cf0e24ae2f6e7c983a175efcee63",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM698.QDJD.329"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/7e073920d7d1a6d9587904e047dac9a1",
       "@type": "Dataset",
       "label": "Registered 9/18/2026, HuBMAP Process, TMC-Stanford",
@@ -602929,6 +603697,22 @@
       "hubmap_id": "HBM254.VFVF.254"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/8e0c6c2af737a74c3bf5724d19fa7a36",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/8e0c6c2af737a74c3bf5724d19fa7a36",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "db9656f7176263667b53732175cdb35f",
+        "23f661634016d46db2b2696cebe57912",
+        "b22f7db18d996534a37cd78da822576f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM447.TGBZ.695"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/8e0f8c74ca57ae29b712469596d4a9ec",
       "@type": "Dataset",
       "label": "Registered 6/14/2023, Joel Welling, TMC-Stanford",
@@ -604846,6 +605630,22 @@
       "hubmap_id": "HBM728.FLNZ.645"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/9151f09efdf8a41a70afc6ee81103789",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/9151f09efdf8a41a70afc6ee81103789",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "369ab368a57f4d496f2653db0247c312",
+        "6ff25e301b5e86566084daf5ec5e6265",
+        "1395b539cdef3e31dc78cf48beef9725",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM658.BFTB.363"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/9153401b3016c80fa820ce2414aa687b",
       "@type": "Dataset",
       "label": "Registered 2/19/2026, HuBMAP Process, RTI-General Electric",
@@ -605666,6 +606466,22 @@
         "a7335d585e467ca66f49d6c3a96b3480"
       ],
       "hubmap_id": "HBM397.WLZZ.984"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/92d3f1cf7383be4f49b64164062d7bd7",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/92d3f1cf7383be4f49b64164062d7bd7",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "65417335f0240a51b87e67196a0eee11",
+        "4e90b0d019acbd34728e4a117e9fb972",
+        "f823b984164b8768c07610942ac79239",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM454.NDGP.363"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/92d6d912f143f830507276697654fd8c",
@@ -608531,6 +609347,22 @@
       "hubmap_id": "HBM273.JVVS.359"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/97a09e769dde406ac371e1de8d64ca2c",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/97a09e769dde406ac371e1de8d64ca2c",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "1a7fff12040a9eef044c30c5dfccaf45",
+        "6504eb07549c80295f7911dc4b402089",
+        "3264230f25aefb665cbaef64e945353a",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM369.CPNG.968"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/97a405eff9cb4cf14481e5c436b00f47",
       "@type": "Dataset",
       "label": "Registered 5/10/2022, Hunter Hakimian, TMC-Florida",
@@ -609888,6 +610720,22 @@
         "e53072f540ac2013342a2d89d9067e3d"
       ],
       "hubmap_id": "HBM592.RJKS.292"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/999ff3151397a2bfb07ab66494240806",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/999ff3151397a2bfb07ab66494240806",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2447adda43c5dd0d3d2aea112d4a6a0c",
+        "2bf83d95b33b50da9dfade82cd068826",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM684.JDKD.579"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/99b107ae6d0f0946be9678e3b62314d6",
@@ -620596,6 +621444,22 @@
       "hubmap_id": "HBM469.WSVF.434"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/aab0f7ea5f17727b00a1c605fab7b159",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/aab0f7ea5f17727b00a1c605fab7b159",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "9c0795a0a0bd4ce331b1e1e93df3cff8",
+        "7a32e2667921aee3b9c83943020893b4",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM596.XDVF.968"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/aab12e84cd58b2921b7ac2913ed3fc63",
       "@type": "Dataset",
       "label": "Registered 2/19/2026, HuBMAP Process, TMC-Vanderbilt",
@@ -621752,6 +622616,22 @@
       "hubmap_id": "HBM362.SNKF.366"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/acb97ebe1ba26b956586645adf5681c6",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/acb97ebe1ba26b956586645adf5681c6",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "312bbf32b7c87ce1cbe9af1c098fde4b",
+        "00aa43351911211750493cc2f2bbc656",
+        "8f37917e283fc0d48985ded7ade2ca6e",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM254.PCHT.963"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/acc0efa3619558a30c654a98fb78889a",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -622842,6 +623722,22 @@
       "hubmap_id": "HBM459.BBRT.432"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ae9ff02505b3379765eba8557f91d5b5",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ae9ff02505b3379765eba8557f91d5b5",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "072408e0945624c659d071a043cca31f",
+        "51232e9f51dc9e1d659e229adc6abbe1",
+        "6f996a8c10d402aa4d45ff01a1e3308b",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM446.GHTK.735"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/aea2908c0165645e2c1a1251362c2465",
       "@type": "Dataset",
       "label": "Registered 6/16/2023, Daniel Cotter, TMC-Stanford",
@@ -623069,6 +623965,22 @@
         "7579e5b974d14149e6fa633d5598f9a8"
       ],
       "hubmap_id": "HBM269.WZLN.876"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/af0fe5828870578946b70ce71635be2b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/af0fe5828870578946b70ce71635be2b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5b8ae8f9527aa2125a8a9da6f6359194",
+        "d25722fd3322d0b3047fcbd50cd57a3a",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM897.HTBD.544"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/af118b12493d5d3794b38b30c3aced45",
@@ -625849,6 +626761,22 @@
         "f8d963cab6bd10e2a4b8184ea8197fc1"
       ],
       "hubmap_id": "HBM548.WNVT.322"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b2f0fe19d59f8adabe6f294c5930a719",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b2f0fe19d59f8adabe6f294c5930a719",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "fe97c9c478245ea3d2bced5768b264e6",
+        "19c50b327957a9df3587d6388cec9ceb",
+        "85567d16c8ea245506f6649f94af5dc8",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM482.WLXR.448"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b2f38810c8ebd9cbc3789d41c13adb11",
@@ -630306,6 +631234,22 @@
         "f477fd0ed977c005313669c8c423fa8d"
       ],
       "hubmap_id": "HBM762.NKMC.467"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ba2d09ea84f5f77d7117c076aa79feed",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ba2d09ea84f5f77d7117c076aa79feed",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "07eea549ec629e784e98e9ef9bb83294",
+        "123638bf3ecbbfdf8bb8a61eb8cb3f91",
+        "3aa0cf0e24ae2f6e7c983a175efcee63",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM225.ZVXC.373"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/ba35e752b5c6b18f75753e76774dda65",
@@ -641924,6 +642868,22 @@
       "hubmap_id": "HBM877.RCLN.985"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/cc90ee8475a0922267b243375e6edfb6",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/cc90ee8475a0922267b243375e6edfb6",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "81a3899430cb993442ee06ed55a35d0a",
+        "8e5ca073d45dfdd248490b4f626c35c5",
+        "7383bb8cb4d0b9de7e5a9544fa36138f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM978.NBWQ.392"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/cc915e548da3dd0b4131c41598c35944",
       "@type": "Dataset",
       "label": "Registered 10/2/2026, HuBMAP Process, TMC-Stanford",
@@ -644486,6 +645446,22 @@
       "hubmap_id": "HBM674.MRHK.553"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d0698a1d3215e9f8a46199241dab9272",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d0698a1d3215e9f8a46199241dab9272",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2c0ea23962c3107ba099eaab53bd61a5",
+        "a9f73b23860ea6d60137e0368c5ac154",
+        "1c2b0e13b9d73a6b9eed7950366169df",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM338.WBVW.874"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d07756dd18fd68c90b5da9bbc1335b0a",
       "@type": "Dataset",
       "label": "Registered 5/7/2026, HuBMAP Process, TMC - University of California San Diego focusing on female reproduction",
@@ -645640,6 +646616,22 @@
         "9d9330fbf8f457b0aeef774458931921"
       ],
       "hubmap_id": "HBM262.JSBN.522"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d29969a2137c3cbb19d4032fed1e1ceb",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d29969a2137c3cbb19d4032fed1e1ceb",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "55f19b12a03693c38a96c305e8b8077c",
+        "4e01f173a4ecade393cbd07fb1ed8ad0",
+        "1dfdf5e7c826fa172ef72b1c170eaa12",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM383.NFDM.754"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d29a6f53e674521bc80e9c357ca7d6f4",
@@ -651145,6 +652137,22 @@
         "1628b6f7eb615862322d6274a6bc9fa0"
       ],
       "hubmap_id": "HBM254.SXCB.872"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/d9da94d48fe2d040a407789c9ec10100",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/d9da94d48fe2d040a407789c9ec10100",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "6ded82b27124bd7bd0525e87ceeb79a5",
+        "b4fb44cf912aae085f96ee269a4cd87d",
+        "a644f89bf90c3a0c41a3b2a6ce112bf7",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM387.GWVW.233"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/d9e3ad559a02ca6f7a465f1bf16d26db",
@@ -659640,6 +660648,22 @@
         "ae36b667325281a00d66eed4c43c585f"
       ],
       "hubmap_id": "HBM623.MZRF.878"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/e7eeada9f821576bbbf6b23380a10477",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/e7eeada9f821576bbbf6b23380a10477",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ce3e4ed0566f48632d9b9697d62c921c",
+        "c6d560a9137c59dc93a19e2aa73e248e",
+        "4e26b6545076f0184e505e7675444f50",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM985.NDXN.632"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/e7ef79651b4414a76ff5c589db2e3bf2",
@@ -674261,6 +675285,22 @@
       "hubmap_id": "HBM539.XCBN.556"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0192ec6707a4b46e1080cc58c041b83b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0192ec6707a4b46e1080cc58c041b83b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "aa6b3611a605032c32d27454f146d6bb",
+        "4ee2aa7b6de96243a278b10c7ba6fd02",
+        "71bdd9c5ac7b911bdc426c17251804cc",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM892.NNLB.338"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0194ad2135a6e06ededb6c9bbc3f5d2f",
       "@type": "Dataset",
       "label": "Registered 7/1/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -678014,6 +679054,22 @@
         "b98182cf9a3eb04ffdce04d5a8b4f13d"
       ],
       "hubmap_id": "HBM572.GZSM.634"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/0c6c76352276b996870e93b3872b904a",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/0c6c76352276b996870e93b3872b904a",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "96e69efacdeba3ade27c656d1e9e1a92",
+        "56a29cfe9580fc25094c558eaee38d40",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM456.NPSF.576"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/0ca8fd35667822d3eb3d0272be8525cb",
@@ -682431,6 +683487,22 @@
       "hubmap_id": "HBM537.SRFH.775"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1a22ddceeffc6c0850bbd3812da46586",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1a22ddceeffc6c0850bbd3812da46586",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "8504e0496487ff9ba18d0e1880ce14d9",
+        "f7cd79229687a4cbd2b1b21d6911d0d0",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM278.TGBV.963"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1a3a78e4774418f0a74158baeeed2724",
       "@type": "Dataset",
       "label": "Registered 11/7/2024, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -682833,6 +683905,22 @@
         "4086dd53a9e443f4ab57207ce77402d2"
       ],
       "hubmap_id": "HBM495.NQVK.277"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/1b540c8851000b2dc402565d19f689d0",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/1b540c8851000b2dc402565d19f689d0",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "2ee89db4c8ce641cfb44e71d5e27fdfb",
+        "b0dbbbc7be0d0ac4eddf50d28cecd62b",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM824.VVST.369"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/1b60dde9dd2d1c399ff82f26c074653a",
@@ -688314,6 +689402,22 @@
         "670aa40d3780444f5adaa50ce3768c5e"
       ],
       "hubmap_id": "HBM223.NRCL.839"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/2b1503a919de9ad037435efa8a8ef099",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/2b1503a919de9ad037435efa8a8ef099",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "de6c861866a5d478beaf863e0e58d9b5",
+        "fa5124bc115994c617a6c540da7e7cc4",
+        "71bdd9c5ac7b911bdc426c17251804cc",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM382.NDGQ.853"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/2b28fb5a60ea5d6145368886a1d90b2b",
@@ -695055,6 +696159,22 @@
         "277ba910b00771a81a608846ba883e31"
       ],
       "hubmap_id": "HBM434.ZXBK.229"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/3c722d48b6a972cae898369046d7da6a",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/3c722d48b6a972cae898369046d7da6a",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "84d5509375343d2040ad44a4cbeafe65",
+        "aed5a9ac8ff955392f62d7e7f03fead0",
+        "8136bcb6c97a5ed76d9bb0ac9053071d",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM438.VWDN.575"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/3c761a3a542e67194143f53e6cd745c6",
@@ -709925,6 +711045,22 @@
       "hubmap_id": "HBM957.KMRW.729"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/62bfb10f2b52053f57c33c998d087b81",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/62bfb10f2b52053f57c33c998d087b81",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "ab95bdc69c41c9f10f3539cd5784bcd6",
+        "7048ef696933640dc9fba0c128d826e0",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM454.PKDQ.628"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/62c4f8e860cb9b73438c04e5944c2535",
       "@type": "Dataset",
       "label": "Registered 5/27/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -719306,6 +720442,22 @@
         "b5b4de30c90e4cb3def65407292942e9"
       ],
       "hubmap_id": "HBM357.DGJN.586"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/7b8fdae19e1fa8807caef9f221494977",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/7b8fdae19e1fa8807caef9f221494977",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "5dfdd9720ba0ae61021ee526bb699771",
+        "631fe18cf3c718c724a4d5d6d7f69b04",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM533.NZBR.587"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/7ba87ad828feabbdfcf1b309d6032bdb",
@@ -739153,6 +740305,22 @@
       "hubmap_id": "HBM274.TZZV.829"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b0b0e352e82fc23bb062da239c1b5df4",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b0b0e352e82fc23bb062da239c1b5df4",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "744264b2417a8ff8511fa5a2bee443f6",
+        "7b376386d2fb3e18c1296800ef4b04ce",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM279.LWTM.373"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b0d045473051326add9f745244f8a7e2",
       "@type": "Dataset",
       "label": "Registered 6/18/2025, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -740202,6 +741370,22 @@
         "805642e38eead146f4f6caa6e2024b7e"
       ],
       "hubmap_id": "HBM682.GGDM.736"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/b3218488b7eba95adbc7f3c87e021ce3",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/b3218488b7eba95adbc7f3c87e021ce3",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "041b670fee14068344100f155dc77b0e",
+        "dd6b1da8e4906ecb77ef22f15aef8c1b",
+        "72f4bb3b62cd16fe897ef05c06b2d987",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM572.ZRQF.794"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/b322b558d7e73eb6ebf41bd07efb3f8f",
@@ -745559,6 +746743,22 @@
       "hubmap_id": "HBM588.VRFQ.475"
     },
     {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/c2fa6951365bc5cff572e267e1fa1d7b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/c2fa6951365bc5cff572e267e1fa1d7b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "d0e39d00a77d629133f77c326dd50dc5",
+        "1bf208f849f0a4458c24ca920c885356",
+        "8ae766d7e11e752d5c60e8e145cc5c4e",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM429.HGWJ.874"
+    },
+    {
       "@id": "https://entity.api.hubmapconsortium.org/entities/c307b706a3222b484c9e09ec9b226bfc",
       "@type": "Dataset",
       "label": "Registered 10/15/2026, HuBMAP Process, University of Rochester Medical Center TMC",
@@ -748957,6 +750157,22 @@
         "75d5619b543b25cd05c7873cdd5628bb"
       ],
       "hubmap_id": "HBM452.HLDC.632"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/cc58bbc257c99d407244a79aa830f53b",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/cc58bbc257c99d407244a79aa830f53b",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "07fdabf57d1c3eced21ed0e31d868621",
+        "83ab5de48fe74e71c4b1c8db9c6a6986",
+        "9b8a2a82654fe97771f92eb9ea80f77b",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM292.MXSS.587"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/cc5f9ae2a04af87acf38c854b673f044",
@@ -756712,6 +757928,22 @@
         "88aba5d4d5940b31dab9072af559f94b"
       ],
       "hubmap_id": "HBM843.XGSS.369"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/e0f971a584daa7c2f5e047c0ec0a24e8",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/e0f971a584daa7c2f5e047c0ec0a24e8",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "bb0fd9984e45aa3e39ace86fdee69e40",
+        "ddaca42453d791dc03b6c669e602623f",
+        "a5fc66b39913837218e1da689f4d020f",
+        "75d5619b543b25cd05c7873cdd5628bb"
+      ],
+      "hubmap_id": "HBM398.SFTK.868"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/e0fe438fbd6097887542ef1157a81e2c",
@@ -767080,6 +768312,22 @@
         "bb1db3342bd5092fc28a967315f3cf44"
       ],
       "hubmap_id": "HBM428.WPXP.979"
+    },
+    {
+      "@id": "https://entity.api.hubmapconsortium.org/entities/ff98097dae9ce577c732f9177ba65f23",
+      "@type": "Dataset",
+      "label": "Registered 10/21/2026, HuBMAP Process, TMC-Vanderbilt",
+      "link": "https://portal.hubmapconsortium.org/browse/dataset/ff98097dae9ce577c732f9177ba65f23",
+      "description": "Dataset Type: MALDI",
+      "technology": "MALDI",
+      "thumbnail": "https://cdn.humanatlas.io/ui/ccf-eui/assets/icons/ico-unknown.svg",
+      "__ancestors": [
+        "0c2552f4567282f17563eb546dc15487",
+        "8475c93f7eb50d944e7981ae2fc5b1b0",
+        "72f4bb3b62cd16fe897ef05c06b2d987",
+        "57bdfc51393356fb16f03d0684da2e5a"
+      ],
+      "hubmap_id": "HBM339.ZTHJ.385"
     },
     {
       "@id": "https://entity.api.hubmapconsortium.org/entities/ff9a6c460d23e49641dc89f3a7aa5c85",
