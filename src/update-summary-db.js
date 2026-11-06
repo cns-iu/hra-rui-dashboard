@@ -66,11 +66,13 @@ for (const { data_source, csv_url } of sources) {
   //   data = decumulate(data, field);
   // }
   data = data.reduce((acc, row) => {
-    acc.push(
-      { data_source, date: row.Date, group: 'Unregistered', count: row.Unregistered },
-      { data_source, date: row.Date, group: 'Exempt', count: row.Exempt },
-      { data_source, date: row.Date, group: 'Registered', count: row.Registered },
-    );
+    if (row.Unregistered + row.Exempt + row.Registered !== '') {
+      acc.push(
+        { data_source, date: row.Date, group: 'Unregistered', count: row.Unregistered },
+        { data_source, date: row.Date, group: 'Exempt', count: row.Exempt },
+        { data_source, date: row.Date, group: 'Registered', count: row.Registered },
+      );
+    }
     return acc;
   }, []);
   combinedSources.push(...data);
